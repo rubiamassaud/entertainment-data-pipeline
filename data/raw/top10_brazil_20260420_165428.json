@@ -1,0 +1,4964 @@
+[
+  {
+    "rank": 1,
+    "artist_name": "Sabrina Carpenter",
+    "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+    "lastfm_url": "https://www.last.fm/music/Sabrina+Carpenter",
+    "listeners_brazil": 121758,
+    "listeners_global": 3241264,
+    "playcount_global": 659174266,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "rnb",
+      "american",
+      "my top songs"
+    ],
+    "similar_artists": [
+      "Taylor Swift",
+      "Olivia Rodrigo",
+      "Madison Beer",
+      "Tate McRae",
+      "Ariana Grande"
+    ],
+    "extracted_at": "2026-04-20T16:53:23.190555"
+  },
+  {
+    "rank": 2,
+    "artist_name": "Lady Gaga",
+    "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+    "lastfm_url": "https://www.last.fm/music/Lady+Gaga",
+    "listeners_brazil": 115210,
+    "listeners_global": 7706952,
+    "playcount_global": 1030286284,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "dance",
+      "electronic",
+      "female vocalists",
+      "female vocalist"
+    ],
+    "similar_artists": [
+      "Ke$ha",
+      "Miley Cyrus",
+      "Madonna",
+      "Britney Spears",
+      "Marina"
+    ],
+    "extracted_at": "2026-04-20T16:53:23.722624"
+  },
+  {
+    "rank": 3,
+    "artist_name": "Justin Bieber",
+    "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+    "lastfm_url": "https://www.last.fm/music/Justin+Bieber",
+    "listeners_brazil": 104912,
+    "listeners_global": 4794783,
+    "playcount_global": 327088795,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "black metal",
+      "rnb",
+      "justin bieber",
+      "Hip-Hop"
+    ],
+    "similar_artists": [
+      "Shawn Mendes",
+      "ZAYN",
+      "Chris Brown",
+      "Poo Bear",
+      "Givēon"
+    ],
+    "extracted_at": "2026-04-20T16:53:24.181083"
+  },
+  {
+    "rank": 4,
+    "artist_name": "Taylor Swift",
+    "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+    "lastfm_url": "https://www.last.fm/music/Taylor+Swift",
+    "listeners_brazil": 102416,
+    "listeners_global": 5927672,
+    "playcount_global": 3666551167,
+    "ontour": false,
+    "tags": [
+      "country",
+      "pop",
+      "female vocalists",
+      "singer-songwriter",
+      "acoustic"
+    ],
+    "similar_artists": [
+      "Sabrina Carpenter",
+      "Olivia Rodrigo",
+      "Gracie Abrams",
+      "Harry Styles",
+      "Chappell Roan"
+    ],
+    "extracted_at": "2026-04-20T16:53:24.636099"
+  },
+  {
+    "rank": 5,
+    "artist_name": "Ariana Grande",
+    "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+    "lastfm_url": "https://www.last.fm/music/Ariana+Grande",
+    "listeners_brazil": 102349,
+    "listeners_global": 4471617,
+    "playcount_global": 1107390728,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "rnb",
+      "female vocalists",
+      "Ariana Grande",
+      "american"
+    ],
+    "similar_artists": [
+      "Jessie J, Ariana Grande & Nicki Minaj",
+      "Madison Beer",
+      "Cynthia Erivo",
+      "Sabrina Carpenter",
+      "Doja Cat"
+    ],
+    "extracted_at": "2026-04-20T16:53:25.133435"
+  },
+  {
+    "rank": 6,
+    "artist_name": "Lana Del Rey",
+    "mbid": "b7539c32-53e7-4908-bda3-81449c367da6",
+    "lastfm_url": "https://www.last.fm/music/Lana+Del+Rey",
+    "listeners_brazil": 102331,
+    "listeners_global": 5246554,
+    "playcount_global": 1578426191,
+    "ontour": false,
+    "tags": [
+      "indie",
+      "female vocalists",
+      "indie pop",
+      "pop",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Emile Haynie",
+      "Melanie Martinez",
+      "Lorde",
+      "Marina & the Diamonds",
+      "Saint Avangeline"
+    ],
+    "extracted_at": "2026-04-20T16:53:25.602799"
+  },
+  {
+    "rank": 7,
+    "artist_name": "Anitta",
+    "mbid": "d606b860-cc03-4959-a3fd-3a24bccf2560",
+    "lastfm_url": "https://www.last.fm/music/Anitta",
+    "listeners_brazil": 100176,
+    "listeners_global": 1218391,
+    "playcount_global": 159805454,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "brazilian",
+      "funk",
+      "dance",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Luísa Sonza",
+      "PEDRO SAMPAIO",
+      "Lexa",
+      "Pabllo Vittar",
+      "POCAH"
+    ],
+    "extracted_at": "2026-04-20T16:53:26.093490"
+  },
+  {
+    "rank": 8,
+    "artist_name": "Marina Sena",
+    "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+    "lastfm_url": "https://www.last.fm/music/Marina+Sena",
+    "listeners_brazil": 97441,
+    "listeners_global": 493139,
+    "playcount_global": 97432807,
+    "ontour": true,
+    "tags": [
+      "indie",
+      "brazilian",
+      "mpb",
+      "Greek",
+      "Greek Pop"
+    ],
+    "similar_artists": [
+      "DUDA BEAT",
+      "Gaby Amarantos",
+      "Liniker",
+      "Luísa Sonza",
+      "Preta Gil"
+    ],
+    "extracted_at": "2026-04-20T16:53:26.617514"
+  },
+  {
+    "rank": 9,
+    "artist_name": "PinkPantheress",
+    "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+    "lastfm_url": "https://www.last.fm/music/PinkPantheress",
+    "listeners_brazil": 97118,
+    "listeners_global": 3060319,
+    "playcount_global": 325586142,
+    "ontour": true,
+    "tags": [
+      "electronic",
+      "pop",
+      "2-step",
+      "rnb",
+      "dance-pop"
+    ],
+    "similar_artists": [
+      "lil hero",
+      "Addison Rae",
+      "Charli xcx",
+      "Slayyyter",
+      "Rochelle Jordan"
+    ],
+    "extracted_at": "2026-04-20T16:53:26.982922"
+  },
+  {
+    "rank": 10,
+    "artist_name": "Olivia Rodrigo",
+    "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+    "lastfm_url": "https://www.last.fm/music/Olivia+Rodrigo",
+    "listeners_brazil": 96727,
+    "listeners_global": 3088629,
+    "playcount_global": 558761430,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "pop rock",
+      "rock",
+      "indie pop",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Taylor Swift",
+      "Sabrina Carpenter",
+      "Conan Gray",
+      "Chappell Roan",
+      "Gracie Abrams"
+    ],
+    "extracted_at": "2026-04-20T16:53:27.425591"
+  },
+  {
+    "rank": 11,
+    "artist_name": "Tame Impala",
+    "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+    "lastfm_url": "https://www.last.fm/music/Tame+Impala",
+    "listeners_brazil": 93328,
+    "listeners_global": 4359393,
+    "playcount_global": 416307252,
+    "ontour": true,
+    "tags": [
+      "Psychedelic Rock",
+      "psychedelic",
+      "indie rock",
+      "australian",
+      "rock"
+    ],
+    "similar_artists": [
+      "Pond",
+      "Melody's Echo Chamber",
+      "GUM",
+      "Temples",
+      "Moses Gunn Collective"
+    ],
+    "extracted_at": "2026-04-20T16:53:27.917526"
+  },
+  {
+    "rank": 12,
+    "artist_name": "Rihanna",
+    "mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+    "lastfm_url": "https://www.last.fm/music/Rihanna",
+    "listeners_brazil": 87842,
+    "listeners_global": 8281179,
+    "playcount_global": 599933618,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "rnb",
+      "female vocalists",
+      "dance",
+      "Hip-Hop"
+    ],
+    "similar_artists": [
+      "The Pussycat Dolls",
+      "Nicki Minaj",
+      "Beyoncé",
+      "Ciara",
+      "Destiny's Child"
+    ],
+    "extracted_at": "2026-04-20T16:53:28.411151"
+  },
+  {
+    "rank": 13,
+    "artist_name": "The Weeknd",
+    "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+    "lastfm_url": "https://www.last.fm/music/The+Weeknd",
+    "listeners_brazil": 86200,
+    "listeners_global": 5304379,
+    "playcount_global": 1118352676,
+    "ontour": true,
+    "tags": [
+      "rnb",
+      "electronic",
+      "dubstep",
+      "Canadian",
+      "prog-rnb"
+    ],
+    "similar_artists": [
+      "Tory Lanez",
+      "Drake",
+      "PARTYNEXTDOOR",
+      "Black Atlass",
+      "Don Toliver"
+    ],
+    "extracted_at": "2026-04-20T16:53:28.913417"
+  },
+  {
+    "rank": 14,
+    "artist_name": "Charli xcx",
+    "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+    "lastfm_url": "https://www.last.fm/music/Charli+xcx",
+    "listeners_brazil": 80976,
+    "listeners_global": 3764533,
+    "playcount_global": 718682909,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "synthpop",
+      "electronic",
+      "female vocalists",
+      "Electroclash"
+    ],
+    "similar_artists": [
+      "Sophie",
+      "Slayyyter",
+      "Caroline Polachek",
+      "Addison Rae",
+      "A. G. Cook"
+    ],
+    "extracted_at": "2026-04-20T16:53:29.390373"
+  },
+  {
+    "rank": 15,
+    "artist_name": "Tyler, The Creator",
+    "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+    "lastfm_url": "https://www.last.fm/music/Tyler,+The+Creator",
+    "listeners_brazil": 77887,
+    "listeners_global": 4319981,
+    "playcount_global": 1048979031,
+    "ontour": false,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "ofwgkta",
+      "underground hip-hop",
+      "swag"
+    ],
+    "similar_artists": [
+      "OFWGKTA",
+      "Kendrick Lamar",
+      "Childish Gambino",
+      "Domo Genesis",
+      "MellowHype"
+    ],
+    "extracted_at": "2026-04-20T16:53:29.922302"
+  },
+  {
+    "rank": 16,
+    "artist_name": "Billie Eilish",
+    "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+    "lastfm_url": "https://www.last.fm/music/Billie+Eilish",
+    "listeners_brazil": 75673,
+    "listeners_global": 4218198,
+    "playcount_global": 832985113,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "indie pop",
+      "electropop",
+      "art pop",
+      "alternative"
+    ],
+    "similar_artists": [
+      "FINNEAS",
+      "Olivia Rodrigo",
+      "Melanie Martinez",
+      "Lana Del Rey",
+      "Ariana Grande"
+    ],
+    "extracted_at": "2026-04-20T16:53:30.516594"
+  },
+  {
+    "rank": 17,
+    "artist_name": "Chappell Roan",
+    "mbid": "56a55378-f155-48de-80a5-d80104221267",
+    "lastfm_url": "https://www.last.fm/music/Chappell+Roan",
+    "listeners_brazil": 74383,
+    "listeners_global": 2558579,
+    "playcount_global": 334782927,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "indie pop",
+      "synthpop",
+      "queer",
+      "electropop"
+    ],
+    "similar_artists": [
+      "Sabrina Carpenter",
+      "Olivia Rodrigo",
+      "Reneé Rapp",
+      "Lorde",
+      "Conan Gray"
+    ],
+    "extracted_at": "2026-04-20T16:53:31.037468"
+  },
+  {
+    "rank": 18,
+    "artist_name": "Doja Cat",
+    "mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+    "lastfm_url": "https://www.last.fm/music/Doja+Cat",
+    "listeners_brazil": 71621,
+    "listeners_global": 3621671,
+    "playcount_global": 467183338,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "rnb",
+      "rap",
+      "Hip-Hop",
+      "hip hop"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Cardi B",
+      "Nicki Minaj",
+      "Doja Cat & The Weeknd",
+      "Ariana Grande"
+    ],
+    "extracted_at": "2026-04-20T16:53:33.643759"
+  },
+  {
+    "rank": 19,
+    "artist_name": "Paramore",
+    "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+    "lastfm_url": "https://www.last.fm/music/Paramore",
+    "listeners_brazil": 71525,
+    "listeners_global": 5629280,
+    "playcount_global": 583249842,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "pop punk",
+      "alternative",
+      "female vocalists",
+      "emo"
+    ],
+    "similar_artists": [
+      "Hayley Williams",
+      "Fall Out Boy",
+      "Tonight Alive",
+      "Panic! at the Disco",
+      "My Chemical Romance"
+    ],
+    "extracted_at": "2026-04-20T16:53:33.915768"
+  },
+  {
+    "rank": 20,
+    "artist_name": "Arctic Monkeys",
+    "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+    "lastfm_url": "https://www.last.fm/music/Arctic+Monkeys",
+    "listeners_brazil": 71271,
+    "listeners_global": 7088655,
+    "playcount_global": 932710082,
+    "ontour": false,
+    "tags": [
+      "indie rock",
+      "indie",
+      "british",
+      "alternative",
+      "rock"
+    ],
+    "similar_artists": [
+      "The Last Shadow Puppets",
+      "Alex Turner",
+      "Miles Kane",
+      "Miles Kane and the Death Ramps",
+      "The Strokes"
+    ],
+    "extracted_at": "2026-04-20T16:53:34.164093"
+  },
+  {
+    "rank": 21,
+    "artist_name": "Beyoncé",
+    "mbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
+    "lastfm_url": "https://www.last.fm/music/Beyonc%C3%A9",
+    "listeners_brazil": 70969,
+    "listeners_global": 6373916,
+    "playcount_global": 697593814,
+    "ontour": false,
+    "tags": [
+      "rnb",
+      "pop",
+      "female vocalists",
+      "soul",
+      "Hip-Hop"
+    ],
+    "similar_artists": [
+      "The Carters",
+      "Destiny's Child",
+      "Chloe x Halle",
+      "Solange",
+      "Kelly Rowland"
+    ],
+    "extracted_at": "2026-04-20T16:53:34.396910"
+  },
+  {
+    "rank": 22,
+    "artist_name": "Harry Styles",
+    "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+    "lastfm_url": "https://www.last.fm/music/Harry+Styles",
+    "listeners_brazil": 69544,
+    "listeners_global": 3296939,
+    "playcount_global": 440219937,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "rock",
+      "pop rock",
+      "alternative",
+      "british"
+    ],
+    "similar_artists": [
+      "Louis Tomlinson",
+      "One Direction",
+      "Niall Horan",
+      "Olivia Rodrigo",
+      "5 Seconds of Summer"
+    ],
+    "extracted_at": "2026-04-20T16:53:34.647514"
+  },
+  {
+    "rank": 23,
+    "artist_name": "KATSEYE",
+    "mbid": "abbf7d85-9a7f-4a6c-80bd-bf71f2c7d520",
+    "lastfm_url": "https://www.last.fm/music/KATSEYE",
+    "listeners_brazil": 67473,
+    "listeners_global": 1563671,
+    "playcount_global": 100208935,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "k-pop",
+      "hyperpop",
+      "electropop",
+      "rnb"
+    ],
+    "similar_artists": [
+      "ADÉLA",
+      "BLACKPINK",
+      "Meovv",
+      "ILLIT",
+      "ALLDAY PROJECT"
+    ],
+    "extracted_at": "2026-04-20T16:53:34.900088"
+  },
+  {
+    "rank": 24,
+    "artist_name": "BTS",
+    "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+    "lastfm_url": "https://www.last.fm/music/BTS",
+    "listeners_brazil": 67195,
+    "listeners_global": 2436472,
+    "playcount_global": 3608553269,
+    "ontour": true,
+    "tags": [
+      "k-pop",
+      "bts",
+      "Kpop",
+      "Korean",
+      "pop"
+    ],
+    "similar_artists": [
+      "Agust D",
+      "RM",
+      "BTS, Halsey",
+      "j-hope",
+      "Jimin"
+    ],
+    "extracted_at": "2026-04-20T16:53:35.136919"
+  },
+  {
+    "rank": 25,
+    "artist_name": "Kanye West",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/Kanye+West",
+    "listeners_brazil": 67055,
+    "listeners_global": 7941185,
+    "playcount_global": 1535082317,
+    "ontour": true,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "hip hop",
+      "rnb",
+      "Kanye West"
+    ],
+    "similar_artists": [
+      "¥$",
+      "KIDS SEE GHOSTS",
+      "JAY-Z & Kanye West",
+      "The Throne",
+      "Ty Dolla $ign"
+    ],
+    "extracted_at": "2026-04-20T16:53:35.379540"
+  },
+  {
+    "rank": 26,
+    "artist_name": "Radiohead",
+    "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "lastfm_url": "https://www.last.fm/music/Radiohead",
+    "listeners_brazil": 65627,
+    "listeners_global": 8223641,
+    "playcount_global": 1370528144,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "alternative",
+      "alternative rock",
+      "indie",
+      "electronic"
+    ],
+    "similar_artists": [
+      "Thom Yorke",
+      "Atoms for Peace",
+      "Jeff Buckley",
+      "Muse",
+      "The Strokes"
+    ],
+    "extracted_at": "2026-04-20T16:53:35.624773"
+  },
+  {
+    "rank": 27,
+    "artist_name": "NandaTsunami",
+    "mbid": "a79eaa67-a865-406c-b98d-f4512ad198f2",
+    "lastfm_url": "https://www.last.fm/music/NandaTsunami",
+    "listeners_brazil": 64984,
+    "listeners_global": 209545,
+    "playcount_global": 9223782,
+    "ontour": true,
+    "tags": [
+      "Better than Nicki Minaj",
+      "brazilian",
+      "better than selena gomez",
+      "NandaTsunami",
+      "DJ Caio Santos"
+    ],
+    "similar_artists": [
+      "th4ys",
+      "Afreekassia",
+      "larinhx",
+      "Isma",
+      "Yuri Redicopa"
+    ],
+    "extracted_at": "2026-04-20T16:53:35.886967"
+  },
+  {
+    "rank": 28,
+    "artist_name": "Linkin Park",
+    "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+    "lastfm_url": "https://www.last.fm/music/Linkin+Park",
+    "listeners_brazil": 64916,
+    "listeners_global": 6923689,
+    "playcount_global": 742564284,
+    "ontour": true,
+    "tags": [
+      "Nu Metal",
+      "rock",
+      "alternative rock",
+      "alternative",
+      "metal"
+    ],
+    "similar_artists": [
+      "Mike Shinoda",
+      "Dead by Sunrise",
+      "Jay-Z and Linkin Park",
+      "Grey Daze",
+      "Papa Roach"
+    ],
+    "extracted_at": "2026-04-20T16:53:36.135206"
+  },
+  {
+    "rank": 29,
+    "artist_name": "Kendrick Lamar",
+    "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+    "lastfm_url": "https://www.last.fm/music/Kendrick+Lamar",
+    "listeners_brazil": 64189,
+    "listeners_global": 5086041,
+    "playcount_global": 1028363774,
+    "ontour": false,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "west coast",
+      "hip hop",
+      "compton"
+    ],
+    "similar_artists": [
+      "Baby Keem",
+      "JID",
+      "Jay Rock",
+      "Black Hippy",
+      "Tyler, The Creator"
+    ],
+    "extracted_at": "2026-04-20T16:53:36.371917"
+  },
+  {
+    "rank": 30,
+    "artist_name": "The Neighbourhood",
+    "mbid": "53b06622-ec51-4924-a554-58b0affde6b5",
+    "lastfm_url": "https://www.last.fm/music/The+Neighbourhood",
+    "listeners_brazil": 62371,
+    "listeners_global": 3956377,
+    "playcount_global": 398395077,
+    "ontour": true,
+    "tags": [
+      "indie",
+      "indie rock",
+      "indie pop",
+      "rock",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Jesse®",
+      "Beach Weather",
+      "Arctic Monkeys",
+      "sombr",
+      "Jaymes Young"
+    ],
+    "extracted_at": "2026-04-20T16:53:36.604361"
+  },
+  {
+    "rank": 31,
+    "artist_name": "Britney Spears",
+    "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+    "lastfm_url": "https://www.last.fm/music/Britney+Spears",
+    "listeners_brazil": 60506,
+    "listeners_global": 6440558,
+    "playcount_global": 495040446,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "dance",
+      "female vocalists",
+      "Britney Spears",
+      "legend"
+    ],
+    "similar_artists": [
+      "Madonna",
+      "Christina Aguilera",
+      "The Pussycat Dolls",
+      "Ashley Tisdale",
+      "Kylie Minogue"
+    ],
+    "extracted_at": "2026-04-20T16:53:36.851681"
+  },
+  {
+    "rank": 32,
+    "artist_name": "Madonna",
+    "mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+    "lastfm_url": "https://www.last.fm/music/Madonna",
+    "listeners_brazil": 60390,
+    "listeners_global": 5594103,
+    "playcount_global": 362098201,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "dance",
+      "female vocalists",
+      "80s",
+      "electronic"
+    ],
+    "similar_artists": [
+      "Kylie Minogue",
+      "Britney Spears",
+      "Janet Jackson",
+      "Dannii Minogue",
+      "Cher"
+    ],
+    "extracted_at": "2026-04-20T16:53:37.110286"
+  },
+  {
+    "rank": 33,
+    "artist_name": "Djavan",
+    "mbid": "751e517d-9663-4692-8c20-942e16d484c5",
+    "lastfm_url": "https://www.last.fm/music/Djavan",
+    "listeners_brazil": 58178,
+    "listeners_global": 776482,
+    "playcount_global": 39222388,
+    "ontour": true,
+    "tags": [
+      "mpb",
+      "brazilian",
+      "Bossa Nova",
+      "brasil",
+      "brazil"
+    ],
+    "similar_artists": [
+      "Jorge Vercillo",
+      "Gal Costa",
+      "Marisa Monte",
+      "Jorge Ben",
+      "Gilberto Gil"
+    ],
+    "extracted_at": "2026-04-20T16:53:37.350675"
+  },
+  {
+    "rank": 34,
+    "artist_name": "Frank Ocean",
+    "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+    "lastfm_url": "https://www.last.fm/music/Frank+Ocean",
+    "listeners_brazil": 57829,
+    "listeners_global": 4253247,
+    "playcount_global": 774221233,
+    "ontour": false,
+    "tags": [
+      "rnb",
+      "soul",
+      "Hip-Hop",
+      "r&b",
+      "ofwgkta"
+    ],
+    "similar_artists": [
+      "Daniel Caesar",
+      "Brent Faiyaz",
+      "Steve Lacy",
+      "Sonder",
+      "Tyler, The Creator"
+    ],
+    "extracted_at": "2026-04-20T16:53:37.587925"
+  },
+  {
+    "rank": 35,
+    "artist_name": "Michael Jackson",
+    "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+    "lastfm_url": "https://www.last.fm/music/Michael+Jackson",
+    "listeners_brazil": 57534,
+    "listeners_global": 6822938,
+    "playcount_global": 353113990,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "80s",
+      "dance",
+      "soul",
+      "funk"
+    ],
+    "similar_artists": [
+      "The Jacksons",
+      "The Jackson 5",
+      "Michael Jackson & Paul McCartney",
+      "3T",
+      "Michael Jackson & Janet Jackson"
+    ],
+    "extracted_at": "2026-04-20T16:53:37.828005"
+  },
+  {
+    "rank": 36,
+    "artist_name": "Katy Perry",
+    "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c",
+    "lastfm_url": "https://www.last.fm/music/Katy+Perry",
+    "listeners_brazil": 57485,
+    "listeners_global": 7128140,
+    "playcount_global": 437806387,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "pop rock",
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Bebe Rexha",
+      "Selena Gomez",
+      "Dua Lipa",
+      "Miley Cyrus",
+      "Demi Lovato"
+    ],
+    "extracted_at": "2026-04-20T16:53:38.096473"
+  },
+  {
+    "rank": 37,
+    "artist_name": "Addison Rae",
+    "mbid": "610b71d9-fa78-47d6-9073-083922e73840",
+    "lastfm_url": "https://www.last.fm/music/Addison+Rae",
+    "listeners_brazil": 57418,
+    "listeners_global": 1565567,
+    "playcount_global": 114576948,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "american",
+      "electropop",
+      "alt-pop",
+      "queen of pop"
+    ],
+    "similar_artists": [
+      "Slayyyter",
+      "Charli xcx",
+      "ADÉLA",
+      "Lorde",
+      "PinkPantheress"
+    ],
+    "extracted_at": "2026-04-20T16:53:38.337631"
+  },
+  {
+    "rank": 38,
+    "artist_name": "PEDRO SAMPAIO",
+    "mbid": "796bc8a9-efd1-43e8-bacf-5eba68835928",
+    "lastfm_url": "https://www.last.fm/music/PEDRO+SAMPAIO",
+    "listeners_brazil": 56996,
+    "listeners_global": 573391,
+    "playcount_global": 31319198,
+    "ontour": true,
+    "tags": [
+      "brazilian",
+      "funk",
+      "melody",
+      "brazil",
+      "pop"
+    ],
+    "similar_artists": [
+      "Lexa",
+      "Lia Clark",
+      "Anitta",
+      "Luísa Sonza",
+      "POCAH"
+    ],
+    "extracted_at": "2026-04-20T16:53:38.607337"
+  },
+  {
+    "rank": 39,
+    "artist_name": "Lorde",
+    "mbid": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+    "lastfm_url": "https://www.last.fm/music/Lorde",
+    "listeners_brazil": 56922,
+    "listeners_global": 3718882,
+    "playcount_global": 448741902,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "indie pop",
+      "electronic",
+      "indie",
+      "New Zealand"
+    ],
+    "similar_artists": [
+      "Addison Rae",
+      "Caroline Polachek",
+      "Charli xcx",
+      "Sky Ferreira",
+      "HAIM"
+    ],
+    "extracted_at": "2026-04-20T16:53:39.217716"
+  },
+  {
+    "rank": 40,
+    "artist_name": "The Smiths",
+    "mbid": "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+    "lastfm_url": "https://www.last.fm/music/The+Smiths",
+    "listeners_brazil": 55881,
+    "listeners_global": 5061879,
+    "playcount_global": 537616268,
+    "ontour": false,
+    "tags": [
+      "post-punk",
+      "indie",
+      "new wave",
+      "80s",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Morrissey",
+      "Joy Division",
+      "The Cure",
+      "New Order",
+      "Echo & the Bunnymen"
+    ],
+    "extracted_at": "2026-04-20T16:53:39.473036"
+  },
+  {
+    "rank": 41,
+    "artist_name": "Charlie Brown Jr.",
+    "mbid": "29b550f2-04a3-4733-b6f5-4e347fac7e11",
+    "lastfm_url": "https://www.last.fm/music/Charlie+Brown+Jr.",
+    "listeners_brazil": 52948,
+    "listeners_global": 760192,
+    "playcount_global": 74618041,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "brazilian rock",
+      "brazilian",
+      "pop rock",
+      "pop"
+    ],
+    "similar_artists": [
+      "CPM 22",
+      "O Surto",
+      "O Rappa",
+      "Detonautas Roque Clube",
+      "Raimundos"
+    ],
+    "extracted_at": "2026-04-20T16:53:39.722136"
+  },
+  {
+    "rank": 42,
+    "artist_name": "Zara Larsson",
+    "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+    "lastfm_url": "https://www.last.fm/music/Zara+Larsson",
+    "listeners_brazil": 52661,
+    "listeners_global": 2301650,
+    "playcount_global": 85317113,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "swedish",
+      "female vocalists",
+      "Sweden",
+      "indie"
+    ],
+    "similar_artists": [
+      "Leigh-Anne",
+      "Perrie",
+      "Tate McRae",
+      "Bebe Rexha",
+      "Demi Lovato"
+    ],
+    "extracted_at": "2026-04-20T16:53:39.968371"
+  },
+  {
+    "rank": 43,
+    "artist_name": "Gorillaz",
+    "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+    "lastfm_url": "https://www.last.fm/music/Gorillaz",
+    "listeners_brazil": 52657,
+    "listeners_global": 6851995,
+    "playcount_global": 516980167,
+    "ontour": true,
+    "tags": [
+      "electronic",
+      "alternative",
+      "Hip-Hop",
+      "rock",
+      "indie"
+    ],
+    "similar_artists": [
+      "The Good, the Bad & the Queen",
+      "Damon Albarn",
+      "MGMT",
+      "Radiohead",
+      "Twenty One Pilots"
+    ],
+    "extracted_at": "2026-04-20T16:53:40.499935"
+  },
+  {
+    "rank": 44,
+    "artist_name": "Luísa Sonza",
+    "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+    "lastfm_url": "https://www.last.fm/music/Lu%C3%ADsa+Sonza",
+    "listeners_brazil": 52199,
+    "listeners_global": 582739,
+    "playcount_global": 87699810,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "funk",
+      "mpb",
+      "brazilian",
+      "mamacita"
+    ],
+    "similar_artists": [
+      "Anitta",
+      "PEDRO SAMPAIO",
+      "Gloria Groove",
+      "Lexa",
+      "Pabllo Vittar"
+    ],
+    "extracted_at": "2026-04-20T16:53:40.801567"
+  },
+  {
+    "rank": 45,
+    "artist_name": "System of a Down",
+    "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+    "lastfm_url": "https://www.last.fm/music/System+of+a+Down",
+    "listeners_brazil": 51498,
+    "listeners_global": 5812077,
+    "playcount_global": 511893289,
+    "ontour": true,
+    "tags": [
+      "alternative metal",
+      "metal",
+      "Nu Metal",
+      "rock",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Daron Malakian and Scars on Broadway",
+      "Serj Tankian",
+      "Slipknot",
+      "Korn",
+      "Limp Bizkit"
+    ],
+    "extracted_at": "2026-04-20T16:53:41.038640"
+  },
+  {
+    "rank": 46,
+    "artist_name": "Bad Bunny",
+    "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+    "lastfm_url": "https://www.last.fm/music/Bad+Bunny",
+    "listeners_brazil": 50977,
+    "listeners_global": 2567704,
+    "playcount_global": 403978960,
+    "ontour": true,
+    "tags": [
+      "Reggaeton",
+      "trap",
+      "latin",
+      "puerto rico",
+      "trap latino"
+    ],
+    "similar_artists": [
+      "Rauw Alejandro",
+      "JHAYCO",
+      "Tainy",
+      "Trio Vegabajeño",
+      "Mora"
+    ],
+    "extracted_at": "2026-04-20T16:53:41.813328"
+  },
+  {
+    "rank": 47,
+    "artist_name": "SZA",
+    "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+    "lastfm_url": "https://www.last.fm/music/SZA",
+    "listeners_brazil": 50257,
+    "listeners_global": 3486046,
+    "playcount_global": 585995225,
+    "ontour": false,
+    "tags": [
+      "rnb",
+      "soul",
+      "alternative rnb",
+      "electronic",
+      "Neo-Soul"
+    ],
+    "similar_artists": [
+      "Summer Walker",
+      "Doja Cat",
+      "Kali Uchis",
+      "Doechii",
+      "Jhené Aiko"
+    ],
+    "extracted_at": "2026-04-20T16:53:42.050022"
+  },
+  {
+    "rank": 48,
+    "artist_name": "Kali Uchis",
+    "mbid": "d0c7656d-8169-4f77-9dbe-b8f24e40105d",
+    "lastfm_url": "https://www.last.fm/music/Kali+Uchis",
+    "listeners_brazil": 50247,
+    "listeners_global": 3063083,
+    "playcount_global": 314721246,
+    "ontour": true,
+    "tags": [
+      "rnb",
+      "Neo-Soul",
+      "soul",
+      "alternative rnb",
+      "pop"
+    ],
+    "similar_artists": [
+      "SZA",
+      "Doja Cat",
+      "Solange",
+      "Omar Apollo",
+      "Chloe x Halle"
+    ],
+    "extracted_at": "2026-04-20T16:53:42.288589"
+  },
+  {
+    "rank": 49,
+    "artist_name": "Jorge Ben Jor",
+    "mbid": "19499124-36d4-4ccc-b28d-04dde3d2076f",
+    "lastfm_url": "https://www.last.fm/music/Jorge+Ben+Jor",
+    "listeners_brazil": 49834,
+    "listeners_global": 857584,
+    "playcount_global": 46083472,
+    "ontour": false,
+    "tags": [],
+    "similar_artists": [],
+    "extracted_at": "2026-04-20T16:53:42.640188"
+  },
+  {
+    "rank": 50,
+    "artist_name": "Bruno Mars",
+    "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+    "lastfm_url": "https://www.last.fm/music/Bruno+Mars",
+    "listeners_brazil": 49674,
+    "listeners_global": 5235348,
+    "playcount_global": 301315821,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "rnb",
+      "male vocalists",
+      "r&b",
+      "slow jams"
+    ],
+    "similar_artists": [
+      "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "Charlie Puth",
+      "Ne-Yo",
+      "Daniel Caesar",
+      "Maroon 5"
+    ],
+    "extracted_at": "2026-04-20T16:53:42.875225"
+  },
+  {
+    "rank": 51,
+    "artist_name": "Deftones",
+    "mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+    "lastfm_url": "https://www.last.fm/music/Deftones",
+    "listeners_brazil": 49494,
+    "listeners_global": 4227945,
+    "playcount_global": 572423673,
+    "ontour": true,
+    "tags": [
+      "Nu Metal",
+      "alternative",
+      "metal",
+      "alternative rock",
+      "alternative metal"
+    ],
+    "similar_artists": [
+      "Team Sleep",
+      "Korn",
+      "Chevelle",
+      "†††",
+      "Loathe"
+    ],
+    "extracted_at": "2026-04-20T16:53:43.119749"
+  },
+  {
+    "rank": 52,
+    "artist_name": "Ebony",
+    "mbid": "36e0c533-ffe8-4a88-b846-4d81af8aaf0d",
+    "lastfm_url": "https://www.last.fm/music/Ebony",
+    "listeners_brazil": 49291,
+    "listeners_global": 305306,
+    "playcount_global": 25424712,
+    "ontour": true,
+    "tags": [
+      "rap",
+      "brasil",
+      "brazil",
+      "hip hop",
+      "ghana"
+    ],
+    "similar_artists": [
+      "Duquesa",
+      "Ajuliacosta",
+      "larinhx",
+      "Tasha & Tracie",
+      "Mc Luanna"
+    ],
+    "extracted_at": "2026-04-20T16:53:43.381297"
+  },
+  {
+    "rank": 53,
+    "artist_name": "BK",
+    "mbid": "28d7452b-c83b-4f43-98af-e233a146f59d",
+    "lastfm_url": "https://www.last.fm/music/BK",
+    "listeners_brazil": 49244,
+    "listeners_global": 450509,
+    "playcount_global": 52278290,
+    "ontour": false,
+    "tags": [
+      "hard house",
+      "Hard Trance",
+      "rap",
+      "trance",
+      "hip hop"
+    ],
+    "similar_artists": [
+      "Djonga",
+      "Filipe Ret",
+      "Nill",
+      "Tasha & Tracie",
+      "Emicida"
+    ],
+    "extracted_at": "2026-04-20T16:53:43.627695"
+  },
+  {
+    "rank": 54,
+    "artist_name": "Drake",
+    "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+    "lastfm_url": "https://www.last.fm/music/Drake",
+    "listeners_brazil": 48458,
+    "listeners_global": 6707670,
+    "playcount_global": 1158961536,
+    "ontour": false,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "rnb",
+      "hip hop",
+      "Canadian"
+    ],
+    "similar_artists": [
+      "PARTYNEXTDOOR",
+      "DJ Khaled",
+      "Drake & Future",
+      "Tory Lanez",
+      "Lil Baby"
+    ],
+    "extracted_at": "2026-04-20T16:53:43.899019"
+  },
+  {
+    "rank": 55,
+    "artist_name": "Fleetwood Mac",
+    "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+    "lastfm_url": "https://www.last.fm/music/Fleetwood+Mac",
+    "listeners_brazil": 48127,
+    "listeners_global": 4872715,
+    "playcount_global": 298020836,
+    "ontour": false,
+    "tags": [
+      "classic rock",
+      "rock",
+      "70s",
+      "blues",
+      "pop"
+    ],
+    "similar_artists": [
+      "Stevie Nicks",
+      "Lindsey Buckingham",
+      "Christine McVie",
+      "Buckingham Nicks",
+      "Heart"
+    ],
+    "extracted_at": "2026-04-20T16:53:44.178825"
+  },
+  {
+    "rank": 56,
+    "artist_name": "Demi Lovato",
+    "mbid": "faf4cefb-036c-4c88-b93a-5b03dd0a0e6b",
+    "lastfm_url": "https://www.last.fm/music/Demi+Lovato",
+    "listeners_brazil": 46901,
+    "listeners_global": 3397150,
+    "playcount_global": 200427451,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "pop rock",
+      "female vocalists",
+      "Disney",
+      "guilty pleasure"
+    ],
+    "similar_artists": [
+      "Demi Lovato & Joe Jonas",
+      "Miley Cyrus",
+      "Zara Larsson",
+      "Selena Gomez & the Scene",
+      "Kelly Clarkson"
+    ],
+    "extracted_at": "2026-04-20T16:53:44.433811"
+  },
+  {
+    "rank": 57,
+    "artist_name": "Miley Cyrus",
+    "mbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+    "lastfm_url": "https://www.last.fm/music/Miley+Cyrus",
+    "listeners_brazil": 46629,
+    "listeners_global": 4839587,
+    "playcount_global": 300486744,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "dance",
+      "Disney",
+      "guilty pleasure"
+    ],
+    "similar_artists": [
+      "Hannah Montana",
+      "Demi Lovato",
+      "Selena Gomez",
+      "Selena Gomez & the Scene",
+      "Ke$ha"
+    ],
+    "extracted_at": "2026-04-20T16:53:44.685492"
+  },
+  {
+    "rank": 58,
+    "artist_name": "Matuê",
+    "mbid": "be42aaaa-9703-41dc-b2eb-de03e30f83b9",
+    "lastfm_url": "https://www.last.fm/music/Matu%C3%AA",
+    "listeners_brazil": 46188,
+    "listeners_global": 432803,
+    "playcount_global": 63708998,
+    "ontour": true,
+    "tags": [
+      "brazil",
+      "trap",
+      "rap",
+      "brazilian",
+      "trap BR"
+    ],
+    "similar_artists": [
+      "Teto",
+      "WIU",
+      "Alee",
+      "Jovem Dex",
+      "Tz da Coronel"
+    ],
+    "extracted_at": "2026-04-20T16:53:45.017419"
+  },
+  {
+    "rank": 59,
+    "artist_name": "RAYE",
+    "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
+    "lastfm_url": "https://www.last.fm/music/RAYE",
+    "listeners_brazil": 45773,
+    "listeners_global": 1899185,
+    "playcount_global": 66147433,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "rnb",
+      "british",
+      "female vocalists",
+      "my top songs"
+    ],
+    "similar_artists": [
+      "Absolutely",
+      "Jade",
+      "Olivia Dean",
+      "Leigh-Anne",
+      "Zara Larsson"
+    ],
+    "extracted_at": "2026-04-20T16:53:45.259797"
+  },
+  {
+    "rank": 60,
+    "artist_name": "Mitski",
+    "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+    "lastfm_url": "https://www.last.fm/music/Mitski",
+    "listeners_brazil": 45624,
+    "listeners_global": 3262094,
+    "playcount_global": 662498489,
+    "ontour": true,
+    "tags": [
+      "indie rock",
+      "indie",
+      "indie pop",
+      "singer-songwriter",
+      "dream pop"
+    ],
+    "similar_artists": [
+      "Solya",
+      "Fiona Apple",
+      "Black Box Recorder",
+      "Sir Chloe",
+      "Susannah Joffe"
+    ],
+    "extracted_at": "2026-04-20T16:53:45.490122"
+  },
+  {
+    "rank": 61,
+    "artist_name": "Anavitória",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/Anavit%C3%B3ria",
+    "listeners_brazil": 45162,
+    "listeners_global": 526170,
+    "playcount_global": 65465983,
+    "ontour": true,
+    "tags": [
+      "folk",
+      "mpb",
+      "brazilian",
+      "pop",
+      "duo"
+    ],
+    "similar_artists": [
+      "FOTO EM GRUPO",
+      "Elenco Original Do Filme Ana e Vitória",
+      "Lagum",
+      "Chapéu de Palha",
+      "Jão"
+    ],
+    "extracted_at": "2026-04-20T16:53:45.727828"
+  },
+  {
+    "rank": 62,
+    "artist_name": "ROSALÍA",
+    "mbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+    "lastfm_url": "https://www.last.fm/music/ROSAL%C3%8DA",
+    "listeners_brazil": 44473,
+    "listeners_global": 1859666,
+    "playcount_global": 202031233,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "Flamenco",
+      "spanish",
+      "Flamenco Nuevo",
+      "spain"
+    ],
+    "similar_artists": [
+      "Judeline",
+      "Lorde",
+      "Robyn",
+      "Bad Gyal",
+      "Addison Rae"
+    ],
+    "extracted_at": "2026-04-20T16:53:45.981080"
+  },
+  {
+    "rank": 63,
+    "artist_name": "sombr",
+    "mbid": "502cf908-9921-48bc-bf0e-265c881c0156",
+    "lastfm_url": "https://www.last.fm/music/sombr",
+    "listeners_brazil": 44136,
+    "listeners_global": 1834757,
+    "playcount_global": 84409569,
+    "ontour": true,
+    "tags": [
+      "indie",
+      "alternative",
+      "rock",
+      "singer-songwriter",
+      "indie rock"
+    ],
+    "similar_artists": [
+      "Gigi Perez",
+      "The Neighbourhood",
+      "Harry Styles",
+      "Brenn!",
+      "Wallows"
+    ],
+    "extracted_at": "2026-04-20T16:53:46.251708"
+  },
+  {
+    "rank": 64,
+    "artist_name": "Melanie Martinez",
+    "mbid": "0df563ec-1a79-486e-a46d-5b9862a40311",
+    "lastfm_url": "https://www.last.fm/music/Melanie+Martinez",
+    "listeners_brazil": 43820,
+    "listeners_global": 2315496,
+    "playcount_global": 254546561,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "indie",
+      "indie pop",
+      "female vocalists",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Jazmin Bean",
+      "Ashnikko",
+      "Lana Del Rey",
+      "Marina",
+      "Madison Beer"
+    ],
+    "extracted_at": "2026-04-20T16:53:46.906551"
+  },
+  {
+    "rank": 65,
+    "artist_name": "Rita Lee",
+    "mbid": "3f962bf0-42a0-45a0-830f-07b66301d35f",
+    "lastfm_url": "https://www.last.fm/music/Rita+Lee",
+    "listeners_brazil": 43462,
+    "listeners_global": 763857,
+    "playcount_global": 39678247,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "rock",
+      "brazilian",
+      "female vocalists",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Rita Lee, Roberto de Carvalho",
+      "Gal Costa",
+      "Elis Regina",
+      "Os Mutantes",
+      "Marisa Monte"
+    ],
+    "extracted_at": "2026-04-20T16:53:47.148755"
+  },
+  {
+    "rank": 66,
+    "artist_name": "Red Hot Chili Peppers",
+    "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+    "lastfm_url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+    "listeners_brazil": 42915,
+    "listeners_global": 7250969,
+    "playcount_global": 559642208,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "alternative rock",
+      "Funk Rock",
+      "alternative",
+      "funk"
+    ],
+    "similar_artists": [
+      "John Frusciante",
+      "Foo Fighters",
+      "Audioslave",
+      "Pearl Jam",
+      "Incubus"
+    ],
+    "extracted_at": "2026-04-20T16:53:47.389300"
+  },
+  {
+    "rank": 67,
+    "artist_name": "Gal Costa",
+    "mbid": "fc63a914-272d-4b95-9221-61adcce6f793",
+    "lastfm_url": "https://www.last.fm/music/Gal+Costa",
+    "listeners_brazil": 42731,
+    "listeners_global": 901896,
+    "playcount_global": 45456897,
+    "ontour": false,
+    "tags": [
+      "Bossa Nova",
+      "mpb",
+      "brazilian",
+      "tropicalia",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Maria Bethânia",
+      "Caetano Veloso",
+      "Angela Ro Ro",
+      "Elis Regina",
+      "Marina Lima"
+    ],
+    "extracted_at": "2026-04-20T16:53:47.635374"
+  },
+  {
+    "rank": 68,
+    "artist_name": "Slayyyter",
+    "mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+    "lastfm_url": "https://www.last.fm/music/Slayyyter",
+    "listeners_brazil": 42270,
+    "listeners_global": 874864,
+    "playcount_global": 66335940,
+    "ontour": true,
+    "tags": [
+      "hyperpop",
+      "pop",
+      "electropop",
+      "electronic",
+      "bubblegum bass"
+    ],
+    "similar_artists": [
+      "Kim Petras",
+      "Cobrah",
+      "Charli xcx",
+      "Addison Rae",
+      "ADÉLA"
+    ],
+    "extracted_at": "2026-04-20T16:53:47.905011"
+  },
+  {
+    "rank": 69,
+    "artist_name": "Sade",
+    "mbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+    "lastfm_url": "https://www.last.fm/music/Sade",
+    "listeners_brazil": 42219,
+    "listeners_global": 3401821,
+    "playcount_global": 137980108,
+    "ontour": false,
+    "tags": [
+      "soul",
+      "jazz",
+      "female vocalists",
+      "chillout",
+      "pop"
+    ],
+    "similar_artists": [
+      "Erykah Badu",
+      "Anita Baker",
+      "Minnie Riperton",
+      "Sweetback",
+      "Solange"
+    ],
+    "extracted_at": "2026-04-20T16:53:48.147922"
+  },
+  {
+    "rank": 70,
+    "artist_name": "The Strokes",
+    "mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+    "lastfm_url": "https://www.last.fm/music/The+Strokes",
+    "listeners_brazil": 41948,
+    "listeners_global": 5709073,
+    "playcount_global": 482379994,
+    "ontour": true,
+    "tags": [
+      "indie rock",
+      "indie",
+      "rock",
+      "alternative",
+      "alternative rock"
+    ],
+    "similar_artists": [
+      "Julian Casablancas",
+      "Albert Hammond, Jr.",
+      "Arctic Monkeys",
+      "Interpol",
+      "Benches"
+    ],
+    "extracted_at": "2026-04-20T16:53:48.383781"
+  },
+  {
+    "rank": 71,
+    "artist_name": "Marisa Monte",
+    "mbid": "f81f19b9-c76e-43ac-8656-bb56071785fb",
+    "lastfm_url": "https://www.last.fm/music/Marisa+Monte",
+    "listeners_brazil": 41757,
+    "listeners_global": 818475,
+    "playcount_global": 40654610,
+    "ontour": true,
+    "tags": [
+      "mpb",
+      "female vocalists",
+      "brazilian",
+      "Bossa Nova",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Tribalistas",
+      "Vanessa da Mata",
+      "Gal Costa",
+      "Marina Lima",
+      "Adriana Calcanhotto"
+    ],
+    "extracted_at": "2026-04-20T16:53:48.622319"
+  },
+  {
+    "rank": 72,
+    "artist_name": "The Beatles",
+    "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "lastfm_url": "https://www.last.fm/music/The+Beatles",
+    "listeners_brazil": 41702,
+    "listeners_global": 6503101,
+    "playcount_global": 1099819789,
+    "ontour": false,
+    "tags": [
+      "classic rock",
+      "rock",
+      "british",
+      "60s",
+      "pop"
+    ],
+    "similar_artists": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Paul McCartney & Wings",
+      "Wings"
+    ],
+    "extracted_at": "2026-04-20T16:53:48.858966"
+  },
+  {
+    "rank": 73,
+    "artist_name": "Dominic Fike",
+    "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+    "lastfm_url": "https://www.last.fm/music/Dominic+Fike",
+    "listeners_brazil": 41635,
+    "listeners_global": 2520164,
+    "playcount_global": 152605034,
+    "ontour": true,
+    "tags": [
+      "indie",
+      "indie pop",
+      "pop",
+      "alternative",
+      "american"
+    ],
+    "similar_artists": [
+      "Bakar",
+      "Malcolm Todd",
+      "LAUNDRY DAY",
+      "MARQ",
+      "Wallows"
+    ],
+    "extracted_at": "2026-04-20T16:53:49.095425"
+  },
+  {
+    "rank": 74,
+    "artist_name": "The Marías",
+    "mbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
+    "lastfm_url": "https://www.last.fm/music/The+Mar%C3%ADas",
+    "listeners_brazil": 41470,
+    "listeners_global": 2485630,
+    "playcount_global": 239633089,
+    "ontour": false,
+    "tags": [
+      "dream pop",
+      "indie pop",
+      "bedroom pop",
+      "indie",
+      "Sophisti-Pop"
+    ],
+    "similar_artists": [
+      "Not For Radio",
+      "Men I Trust",
+      "Clairo",
+      "Tokyo Tea Room",
+      "beabadoobee"
+    ],
+    "extracted_at": "2026-04-20T16:53:49.346813"
+  },
+  {
+    "rank": 75,
+    "artist_name": "Nirvana",
+    "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+    "lastfm_url": "https://www.last.fm/music/Nirvana",
+    "listeners_brazil": 40711,
+    "listeners_global": 7520700,
+    "playcount_global": 580555763,
+    "ontour": false,
+    "tags": [
+      "Grunge",
+      "rock",
+      "alternative rock",
+      "alternative",
+      "90s"
+    ],
+    "similar_artists": [
+      "Kurt Cobain",
+      "The Jins",
+      "Alice in Chains",
+      "Mudhoney",
+      "Soundgarden"
+    ],
+    "extracted_at": "2026-04-20T16:53:49.593089"
+  },
+  {
+    "rank": 76,
+    "artist_name": "Coldplay",
+    "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+    "lastfm_url": "https://www.last.fm/music/Coldplay",
+    "listeners_brazil": 40674,
+    "listeners_global": 9097785,
+    "playcount_global": 779995273,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "alternative",
+      "britpop",
+      "alternative rock",
+      "indie"
+    ],
+    "similar_artists": [
+      "Keane",
+      "Imagine Dragons",
+      "OneRepublic",
+      "Snow Patrol",
+      "U2"
+    ],
+    "extracted_at": "2026-04-20T16:53:49.941676"
+  },
+  {
+    "rank": 77,
+    "artist_name": "TV Girl",
+    "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
+    "lastfm_url": "https://www.last.fm/music/TV+Girl",
+    "listeners_brazil": 40560,
+    "listeners_global": 2845784,
+    "playcount_global": 293239103,
+    "ontour": true,
+    "tags": [
+      "indie pop",
+      "Lo-Fi",
+      "indie",
+      "chillwave",
+      "pop"
+    ],
+    "similar_artists": [
+      "Jordana",
+      "Eyedress",
+      "Roar",
+      "Current Joys",
+      "Mac DeMarco"
+    ],
+    "extracted_at": "2026-04-20T16:53:50.181526"
+  },
+  {
+    "rank": 78,
+    "artist_name": "Don Toliver",
+    "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+    "lastfm_url": "https://www.last.fm/music/Don+Toliver",
+    "listeners_brazil": 40075,
+    "listeners_global": 2524096,
+    "playcount_global": 274109267,
+    "ontour": true,
+    "tags": [
+      "rap",
+      "trap",
+      "Hip-Hop",
+      "rnb",
+      "hip hop"
+    ],
+    "similar_artists": [
+      "Travi$ Scott",
+      "Offset",
+      "Baby Keem",
+      "Metro Boomin",
+      "Lil Tecca"
+    ],
+    "extracted_at": "2026-04-20T16:53:50.420962"
+  },
+  {
+    "rank": 79,
+    "artist_name": "Tim Maia",
+    "mbid": "446ac261-09ae-43f4-a7e1-2c753c0813ce",
+    "lastfm_url": "https://www.last.fm/music/Tim+Maia",
+    "listeners_brazil": 39800,
+    "listeners_global": 837639,
+    "playcount_global": 36337066,
+    "ontour": false,
+    "tags": [
+      "soul",
+      "mpb",
+      "funk",
+      "brazilian",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Cassiano",
+      "Jorge Ben",
+      "Hyldon",
+      "Cartola",
+      "Adoniran Barbosa"
+    ],
+    "extracted_at": "2026-04-20T16:53:50.668628"
+  },
+  {
+    "rank": 80,
+    "artist_name": "TWICE",
+    "mbid": "8da127cc-c432-418f-b356-ef36210d82ac",
+    "lastfm_url": "https://www.last.fm/music/TWICE",
+    "listeners_brazil": 39607,
+    "listeners_global": 1915762,
+    "playcount_global": 501115298,
+    "ontour": true,
+    "tags": [
+      "k-pop",
+      "Kpop",
+      "Korean",
+      "pop",
+      "girl group"
+    ],
+    "similar_artists": [
+      "JIHYO",
+      "NAYEON",
+      "TZUYU",
+      "CHAEYOUNG",
+      "ITZY"
+    ],
+    "extracted_at": "2026-04-20T16:53:51.124773"
+  },
+  {
+    "rank": 81,
+    "artist_name": "Tate McRae",
+    "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+    "lastfm_url": "https://www.last.fm/music/Tate+McRae",
+    "listeners_brazil": 39536,
+    "listeners_global": 2261126,
+    "playcount_global": 280819393,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "my top songs",
+      "Canadian",
+      "electropop",
+      "canada"
+    ],
+    "similar_artists": [
+      "Madison Beer",
+      "Sabrina Carpenter",
+      "Nessa Barrett",
+      "Gracie Abrams",
+      "Zara Larsson"
+    ],
+    "extracted_at": "2026-04-20T16:53:51.385725"
+  },
+  {
+    "rank": 82,
+    "artist_name": "Marina",
+    "mbid": "b37e091c-d2ee-4707-bfb1-402fc32f29bd",
+    "lastfm_url": "https://www.last.fm/music/Marina",
+    "listeners_brazil": 39204,
+    "listeners_global": 2276825,
+    "playcount_global": 182923504,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "indie pop",
+      "post-hardcore",
+      "polish"
+    ],
+    "similar_artists": [
+      "Marina & the Diamonds",
+      "Allie X",
+      "Melanie Martinez",
+      "Lady Gaga",
+      "Rina Sawayama"
+    ],
+    "extracted_at": "2026-04-20T16:53:51.640858"
+  },
+  {
+    "rank": 83,
+    "artist_name": "Duquesa",
+    "mbid": "55904463-0325-4aea-88f4-925b0319aab8",
+    "lastfm_url": "https://www.last.fm/music/Duquesa",
+    "listeners_brazil": 39057,
+    "listeners_global": 273483,
+    "playcount_global": 21624995,
+    "ontour": true,
+    "tags": [
+      "rap",
+      "indie",
+      "indie rock",
+      "indie pop",
+      "brazil"
+    ],
+    "similar_artists": [
+      "Mc Luanna",
+      "Ajuliacosta",
+      "Tasha & Tracie",
+      "Ebony",
+      "larinhx"
+    ],
+    "extracted_at": "2026-04-20T16:53:51.889875"
+  },
+  {
+    "rank": 84,
+    "artist_name": "Twenty One Pilots",
+    "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+    "lastfm_url": "https://www.last.fm/music/Twenty+One+Pilots",
+    "listeners_brazil": 39016,
+    "listeners_global": 3364016,
+    "playcount_global": 435182294,
+    "ontour": true,
+    "tags": [
+      "electronic",
+      "alternative",
+      "rap",
+      "indie pop",
+      "indie"
+    ],
+    "similar_artists": [
+      "Balu Brigada",
+      "half•alive",
+      "Panic! at the Disco",
+      "I DONT KNOW HOW BUT THEY FOUND ME",
+      "AJR"
+    ],
+    "extracted_at": "2026-04-20T16:53:52.130775"
+  },
+  {
+    "rank": 85,
+    "artist_name": "Mac DeMarco",
+    "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+    "lastfm_url": "https://www.last.fm/music/Mac+DeMarco",
+    "listeners_brazil": 38706,
+    "listeners_global": 3252302,
+    "playcount_global": 347073042,
+    "ontour": true,
+    "tags": [
+      "Lo-Fi",
+      "indie",
+      "post-punk",
+      "experimental",
+      "indie rock"
+    ],
+    "similar_artists": [
+      "LOVING",
+      "Current Joys",
+      "VACATIONS",
+      "Eyedress",
+      "HOMESHAKE"
+    ],
+    "extracted_at": "2026-04-20T16:53:52.365293"
+  },
+  {
+    "rank": 86,
+    "artist_name": "Dua Lipa",
+    "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+    "lastfm_url": "https://www.last.fm/music/Dua+Lipa",
+    "listeners_brazil": 37949,
+    "listeners_global": 3270744,
+    "playcount_global": 319335066,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "synthpop",
+      "electropop",
+      "british",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Ava Max",
+      "Silk City",
+      "Zara Larsson",
+      "Katy Perry",
+      "Lady Gaga"
+    ],
+    "extracted_at": "2026-04-20T16:53:52.607300"
+  },
+  {
+    "rank": 87,
+    "artist_name": "Travis Scott",
+    "mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+    "lastfm_url": "https://www.last.fm/music/Travis+Scott",
+    "listeners_brazil": 37748,
+    "listeners_global": 3328709,
+    "playcount_global": 680612627,
+    "ontour": false,
+    "tags": [],
+    "similar_artists": [],
+    "extracted_at": "2026-04-20T16:53:52.842697"
+  },
+  {
+    "rank": 88,
+    "artist_name": "Pink Floyd",
+    "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+    "lastfm_url": "https://www.last.fm/music/Pink+Floyd",
+    "listeners_brazil": 37627,
+    "listeners_global": 5547320,
+    "playcount_global": 608974855,
+    "ontour": false,
+    "tags": [
+      "Progressive rock",
+      "Psychedelic Rock",
+      "classic rock",
+      "rock",
+      "psychedelic"
+    ],
+    "similar_artists": [
+      "Roger Waters",
+      "David Gilmour",
+      "Syd Barrett",
+      "King Crimson",
+      "Led Zeppelin"
+    ],
+    "extracted_at": "2026-04-20T16:53:53.078685"
+  },
+  {
+    "rank": 89,
+    "artist_name": "NewJeans",
+    "mbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+    "lastfm_url": "https://www.last.fm/music/NewJeans",
+    "listeners_brazil": 37443,
+    "listeners_global": 1812284,
+    "playcount_global": 330429943,
+    "ontour": false,
+    "tags": [
+      "k-pop",
+      "Kpop",
+      "rnb",
+      "pop",
+      "Korean"
+    ],
+    "similar_artists": [
+      "ILLIT",
+      "Danielle",
+      "LE SSERAFIM",
+      "aespa",
+      "Hearts2Hearts"
+    ],
+    "extracted_at": "2026-04-20T16:53:53.316420"
+  },
+  {
+    "rank": 90,
+    "artist_name": "Joji",
+    "mbid": "74922d42-c3ec-4f7d-8a24-20da6eda6ba6",
+    "lastfm_url": "https://www.last.fm/music/Joji",
+    "listeners_brazil": 37129,
+    "listeners_global": 3008803,
+    "playcount_global": 373800405,
+    "ontour": true,
+    "tags": [
+      "Lo-Fi",
+      "rnb",
+      "Hip-Hop",
+      "alternative rnb",
+      "japanese"
+    ],
+    "similar_artists": [
+      "88rising",
+      "Bryant Barnes",
+      "Alan Vuong",
+      "keshi",
+      "Frank Ocean"
+    ],
+    "extracted_at": "2026-04-20T16:53:53.559528"
+  },
+  {
+    "rank": 91,
+    "artist_name": "Liniker",
+    "mbid": "6c8806e3-9f74-4dd1-9fcb-63352d1ba2a0",
+    "lastfm_url": "https://www.last.fm/music/Liniker",
+    "listeners_brazil": 36789,
+    "listeners_global": 310990,
+    "playcount_global": 31671455,
+    "ontour": true,
+    "tags": [
+      "soul",
+      "mpb",
+      "black music",
+      "brazilian",
+      "Smooth Jazz"
+    ],
+    "similar_artists": [
+      "Liniker e os Caramelows",
+      "Liniker e os Caramelows, Liniker, Caramelows",
+      "MC Tha",
+      "Gilsons",
+      "Johnny Hooker"
+    ],
+    "extracted_at": "2026-04-20T16:53:53.803021"
+  },
+  {
+    "rank": 92,
+    "artist_name": "The Cure",
+    "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+    "lastfm_url": "https://www.last.fm/music/The+Cure",
+    "listeners_brazil": 36631,
+    "listeners_global": 5497153,
+    "playcount_global": 394416575,
+    "ontour": true,
+    "tags": [
+      "post-punk",
+      "new wave",
+      "alternative",
+      "80s",
+      "rock"
+    ],
+    "similar_artists": [
+      "The Glove",
+      "Siouxsie and the Banshees",
+      "Bauhaus",
+      "Joy Division",
+      "New Order"
+    ],
+    "extracted_at": "2026-04-20T16:53:54.258125"
+  },
+  {
+    "rank": 93,
+    "artist_name": "Queen",
+    "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+    "lastfm_url": "https://www.last.fm/music/Queen",
+    "listeners_brazil": 36187,
+    "listeners_global": 7217951,
+    "playcount_global": 425336282,
+    "ontour": false,
+    "tags": [
+      "classic rock",
+      "rock",
+      "hard rock",
+      "glam rock",
+      "80s"
+    ],
+    "similar_artists": [
+      "Freddie Mercury",
+      "Roger Taylor",
+      "Brian May",
+      "Queen + Paul Rodgers",
+      "Freddie Mercury & Montserrat Caballé"
+    ],
+    "extracted_at": "2026-04-20T16:53:54.519042"
+  },
+  {
+    "rank": 94,
+    "artist_name": "My Chemical Romance",
+    "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+    "lastfm_url": "https://www.last.fm/music/My+Chemical+Romance",
+    "listeners_brazil": 36088,
+    "listeners_global": 4837847,
+    "playcount_global": 546673025,
+    "ontour": true,
+    "tags": [
+      "rock",
+      "alternative",
+      "punk rock",
+      "emo",
+      "punk"
+    ],
+    "similar_artists": [
+      "Gerard Way",
+      "Frank Iero",
+      "Fall Out Boy",
+      "Pencey Prep",
+      "Panic! at the Disco"
+    ],
+    "extracted_at": "2026-04-20T16:53:54.768763"
+  },
+  {
+    "rank": 95,
+    "artist_name": "Avril Lavigne",
+    "mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+    "lastfm_url": "https://www.last.fm/music/Avril+Lavigne",
+    "listeners_brazil": 36022,
+    "listeners_global": 5132127,
+    "playcount_global": 267023547,
+    "ontour": false,
+    "tags": [
+      "pop rock",
+      "pop",
+      "rock",
+      "female vocalists",
+      "Canadian"
+    ],
+    "similar_artists": [
+      "Ashlee Simpson",
+      "P!nk",
+      "Lindsay Lohan",
+      "Simple Plan",
+      "Kelly Clarkson"
+    ],
+    "extracted_at": "2026-04-20T16:53:55.007156"
+  },
+  {
+    "rank": 96,
+    "artist_name": "BLACKPINK",
+    "mbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+    "lastfm_url": "https://www.last.fm/music/BLACKPINK",
+    "listeners_brazil": 35360,
+    "listeners_global": 2000121,
+    "playcount_global": 313541469,
+    "ontour": false,
+    "tags": [
+      "k-pop",
+      "Kpop",
+      "pop",
+      "Korean",
+      "blackpink"
+    ],
+    "similar_artists": [
+      "JISOO",
+      "Jennie",
+      "Rosé",
+      "Lisa",
+      "Baby Monster"
+    ],
+    "extracted_at": "2026-04-20T16:53:55.250508"
+  },
+  {
+    "rank": 97,
+    "artist_name": "Slipknot",
+    "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+    "lastfm_url": "https://www.last.fm/music/Slipknot",
+    "listeners_brazil": 35280,
+    "listeners_global": 4208630,
+    "playcount_global": 362500764,
+    "ontour": true,
+    "tags": [
+      "Nu Metal",
+      "metal",
+      "heavy metal",
+      "Nu-metal",
+      "rock"
+    ],
+    "similar_artists": [
+      "Korn",
+      "System of a Down",
+      "Stone Sour",
+      "Vended",
+      "Mudvayne"
+    ],
+    "extracted_at": "2026-04-20T16:53:55.526622"
+  },
+  {
+    "rank": 98,
+    "artist_name": "Laufey",
+    "mbid": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+    "lastfm_url": "https://www.last.fm/music/Laufey",
+    "listeners_brazil": 35100,
+    "listeners_global": 2336384,
+    "playcount_global": 261194928,
+    "ontour": true,
+    "tags": [
+      "jazz",
+      "Bossa Nova",
+      "jazz pop",
+      "pop",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "natalie jinju",
+      "Lauren Rose",
+      "beabadoobee, Laufey",
+      "小野リサ",
+      "Lamp"
+    ],
+    "extracted_at": "2026-04-20T16:53:55.782749"
+  },
+  {
+    "rank": 99,
+    "artist_name": "Clairo",
+    "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+    "lastfm_url": "https://www.last.fm/music/Clairo",
+    "listeners_brazil": 35090,
+    "listeners_global": 2919059,
+    "playcount_global": 350163227,
+    "ontour": false,
+    "tags": [
+      "bedroom pop",
+      "indie pop",
+      "dream pop",
+      "Lo-Fi",
+      "pop"
+    ],
+    "similar_artists": [
+      "Shelly",
+      "beabadoobee",
+      "The Marías",
+      "Phoebe Bridgers",
+      "Men I Trust"
+    ],
+    "extracted_at": "2026-04-20T16:53:56.076938"
+  },
+  {
+    "rank": 100,
+    "artist_name": "Evanescence",
+    "mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+    "lastfm_url": "https://www.last.fm/music/Evanescence",
+    "listeners_brazil": 34844,
+    "listeners_global": 4504512,
+    "playcount_global": 218049981,
+    "ontour": true,
+    "tags": [
+      "Gothic Rock",
+      "rock",
+      "female vocalists",
+      "alternative",
+      "Gothic"
+    ],
+    "similar_artists": [
+      "Amy Lee",
+      "We Are the Fallen",
+      "Lacuna Coil",
+      "The Pretty Reckless",
+      "Avril Lavigne"
+    ],
+    "extracted_at": "2026-04-20T16:53:56.374554"
+  },
+  {
+    "rank": 101,
+    "artist_name": "Jennie",
+    "mbid": "d32de3a1-01f0-430e-859a-72307724041c",
+    "lastfm_url": "https://www.last.fm/music/Jennie",
+    "listeners_brazil": 34575,
+    "listeners_global": 1507886,
+    "playcount_global": 111201550,
+    "ontour": true,
+    "tags": [
+      "k-pop",
+      "Korean",
+      "Kpop",
+      "jennie",
+      "pop"
+    ],
+    "similar_artists": [
+      "BLACKPINK",
+      "JISOO",
+      "Lisa",
+      "Rosé",
+      "Meovv"
+    ],
+    "extracted_at": "2026-04-20T16:53:56.650707"
+  },
+  {
+    "rank": 102,
+    "artist_name": "Daniel Caesar",
+    "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+    "lastfm_url": "https://www.last.fm/music/Daniel+Caesar",
+    "listeners_brazil": 33772,
+    "listeners_global": 2356840,
+    "playcount_global": 246464388,
+    "ontour": true,
+    "tags": [
+      "rnb",
+      "soul",
+      "Neo-Soul",
+      "Canadian",
+      "alternative rnb"
+    ],
+    "similar_artists": [
+      "Brent Faiyaz",
+      "River Tiber",
+      "Sonder",
+      "Bruno Major",
+      "Free Nationals"
+    ],
+    "extracted_at": "2026-04-20T16:53:56.903733"
+  },
+  {
+    "rank": 103,
+    "artist_name": "Calvin Harris",
+    "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+    "lastfm_url": "https://www.last.fm/music/Calvin+Harris",
+    "listeners_brazil": 33743,
+    "listeners_global": 5007859,
+    "playcount_global": 208534570,
+    "ontour": true,
+    "tags": [
+      "electronic",
+      "dance",
+      "electro",
+      "Disco",
+      "electronica"
+    ],
+    "similar_artists": [
+      "David Guetta",
+      "Swedish House Mafia",
+      "Alesso",
+      "Zedd",
+      "Avicii"
+    ],
+    "extracted_at": "2026-04-20T16:53:57.167037"
+  },
+  {
+    "rank": 104,
+    "artist_name": "One Direction",
+    "mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+    "lastfm_url": "https://www.last.fm/music/One+Direction",
+    "listeners_brazil": 33641,
+    "listeners_global": 3264877,
+    "playcount_global": 317667366,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "british",
+      "boyband",
+      "one direction",
+      "X factor"
+    ],
+    "similar_artists": [
+      "Louis Tomlinson",
+      "Niall Horan",
+      "Liam Payne",
+      "ZAYN",
+      "Harry Styles"
+    ],
+    "extracted_at": "2026-04-20T16:53:57.424416"
+  },
+  {
+    "rank": 105,
+    "artist_name": "Black Eyed Peas",
+    "mbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+    "lastfm_url": "https://www.last.fm/music/Black+Eyed+Peas",
+    "listeners_brazil": 33466,
+    "listeners_global": 5719837,
+    "playcount_global": 153174855,
+    "ontour": true,
+    "tags": [
+      "Hip-Hop",
+      "pop",
+      "rnb",
+      "rap",
+      "hip hop"
+    ],
+    "similar_artists": [
+      "Fergie",
+      "will.i.am",
+      "The Pussycat Dolls",
+      "Flo Rida",
+      "Taio Cruz"
+    ],
+    "extracted_at": "2026-04-20T16:53:57.697775"
+  },
+  {
+    "rank": 106,
+    "artist_name": "Tyla",
+    "mbid": "2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8",
+    "lastfm_url": "https://www.last.fm/music/Tyla",
+    "listeners_brazil": 33428,
+    "listeners_global": 1485471,
+    "playcount_global": 51573317,
+    "ontour": true,
+    "tags": [
+      "rnb",
+      "pop",
+      "south africa",
+      "amapiano",
+      "afrobeat"
+    ],
+    "similar_artists": [
+      "FLO",
+      "Normani",
+      "Summer Walker",
+      "Tinashe",
+      "Chlöe"
+    ],
+    "extracted_at": "2026-04-20T16:53:57.969177"
+  },
+  {
+    "rank": 107,
+    "artist_name": "DJ Japa NK",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/DJ+Japa+NK",
+    "listeners_brazil": 33112,
+    "listeners_global": 231726,
+    "playcount_global": 4203720,
+    "ontour": false,
+    "tags": [
+      "brazil",
+      "brasil",
+      "brazilian"
+    ],
+    "similar_artists": [
+      "MC Lele JP",
+      "DJ CAIO VIEIRA",
+      "Mc Negão Original",
+      "MC Jvila",
+      "Mc Tuto"
+    ],
+    "extracted_at": "2026-04-20T16:53:58.284715"
+  },
+  {
+    "rank": 108,
+    "artist_name": "Doechii",
+    "mbid": "9f75277c-b283-4846-ac8c-f932255cd0ac",
+    "lastfm_url": "https://www.last.fm/music/Doechii",
+    "listeners_brazil": 32923,
+    "listeners_global": 2025073,
+    "playcount_global": 96394613,
+    "ontour": false,
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "rnb",
+      "hip hop",
+      "pop rap"
+    ],
+    "similar_artists": [
+      "Iamdoechii",
+      "SZA",
+      "Megan Thee Stallion",
+      "Doja Cat",
+      "Bree Runway"
+    ],
+    "extracted_at": "2026-04-20T16:54:00.677431"
+  },
+  {
+    "rank": 109,
+    "artist_name": "Guns N' Roses",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/Guns+N%27+Roses",
+    "listeners_brazil": 32916,
+    "listeners_global": 5195958,
+    "playcount_global": 204264891,
+    "ontour": true,
+    "tags": [
+      "hard rock",
+      "rock",
+      "classic rock",
+      "80s",
+      "metal"
+    ],
+    "similar_artists": [
+      "Mötley Crüe",
+      "Aerosmith",
+      "Slash",
+      "Slash's Snakepit",
+      "Velvet Revolver"
+    ],
+    "extracted_at": "2026-04-20T16:54:01.078005"
+  },
+  {
+    "rank": 110,
+    "artist_name": "LE SSERAFIM",
+    "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+    "lastfm_url": "https://www.last.fm/music/LE+SSERAFIM",
+    "listeners_brazil": 32876,
+    "listeners_global": 1666155,
+    "playcount_global": 304516026,
+    "ontour": true,
+    "tags": [
+      "k-pop",
+      "Kpop",
+      "Korean",
+      "pop",
+      "girl group"
+    ],
+    "similar_artists": [
+      "HUH YUNJIN",
+      "ILLIT",
+      "IVE",
+      "aespa",
+      "LE SSERAFIM, Nile Rodgers"
+    ],
+    "extracted_at": "2026-04-20T16:54:01.388922"
+  },
+  {
+    "rank": 111,
+    "artist_name": "Skank",
+    "mbid": "25db5fde-2384-4baf-8e3d-d8299b4c99ef",
+    "lastfm_url": "https://www.last.fm/music/Skank",
+    "listeners_brazil": 32702,
+    "listeners_global": 685466,
+    "playcount_global": 23681068,
+    "ontour": false,
+    "tags": [
+      "pop rock",
+      "brazilian",
+      "rock",
+      "brasil",
+      "pop"
+    ],
+    "similar_artists": [
+      "Os Paralamas Do Sucesso",
+      "Jota Quest",
+      "Capital Inicial",
+      "Frejat",
+      "Nando Reis"
+    ],
+    "extracted_at": "2026-04-20T16:54:01.644703"
+  },
+  {
+    "rank": 112,
+    "artist_name": "Maroon 5",
+    "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+    "lastfm_url": "https://www.last.fm/music/Maroon+5",
+    "listeners_brazil": 32468,
+    "listeners_global": 6633896,
+    "playcount_global": 287559092,
+    "ontour": true,
+    "tags": [
+      "pop rock",
+      "rock",
+      "pop",
+      "alternative",
+      "alternative rock"
+    ],
+    "similar_artists": [
+      "OneRepublic",
+      "Adam Levine",
+      "The Script",
+      "Train",
+      "Bruno Mars"
+    ],
+    "extracted_at": "2026-04-20T16:54:01.892076"
+  },
+  {
+    "rank": 113,
+    "artist_name": "beabadoobee",
+    "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+    "lastfm_url": "https://www.last.fm/music/beabadoobee",
+    "listeners_brazil": 32292,
+    "listeners_global": 2625150,
+    "playcount_global": 322950956,
+    "ontour": false,
+    "tags": [
+      "indie pop",
+      "indie rock",
+      "indie",
+      "bedroom pop",
+      "dream pop"
+    ],
+    "similar_artists": [
+      "Clairo",
+      "The Marías",
+      "Shelly",
+      "wave to earth",
+      "Unflirt"
+    ],
+    "extracted_at": "2026-04-20T16:54:02.182561"
+  },
+  {
+    "rank": 114,
+    "artist_name": "aespa",
+    "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+    "lastfm_url": "https://www.last.fm/music/aespa",
+    "listeners_brazil": 32279,
+    "listeners_global": 1330099,
+    "playcount_global": 267763565,
+    "ontour": true,
+    "tags": [
+      "k-pop",
+      "Kpop",
+      "Korean",
+      "pop",
+      "hyperpop"
+    ],
+    "similar_artists": [
+      "GOT the beat",
+      "NINGNING",
+      "IVE",
+      "Kiss of Life",
+      "Red Velvet"
+    ],
+    "extracted_at": "2026-04-20T16:54:02.471289"
+  },
+  {
+    "rank": 115,
+    "artist_name": "Shakira",
+    "mbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+    "lastfm_url": "https://www.last.fm/music/Shakira",
+    "listeners_brazil": 32058,
+    "listeners_global": 4868872,
+    "playcount_global": 179544957,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "latin",
+      "female vocalists",
+      "spanish",
+      "rock"
+    ],
+    "similar_artists": [
+      "Paulina Rubio",
+      "Thalía",
+      "Belinda",
+      "Julieta Venegas",
+      "Gloria Trevi"
+    ],
+    "extracted_at": "2026-04-20T16:54:02.731558"
+  },
+  {
+    "rank": 116,
+    "artist_name": "ZAYN",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/ZAYN",
+    "listeners_brazil": 31912,
+    "listeners_global": 2257501,
+    "playcount_global": 119630127,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "rnb",
+      "british",
+      "male vocalists",
+      "sexy"
+    ],
+    "similar_artists": [
+      "Liam Payne",
+      "Niall Horan",
+      "Louis Tomlinson",
+      "One Direction",
+      "Harry Styles"
+    ],
+    "extracted_at": "2026-04-20T16:54:02.999638"
+  },
+  {
+    "rank": 117,
+    "artist_name": "Childish Gambino",
+    "mbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+    "lastfm_url": "https://www.last.fm/music/Childish+Gambino",
+    "listeners_brazil": 31807,
+    "listeners_global": 3805550,
+    "playcount_global": 327117801,
+    "ontour": false,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "hip hop",
+      "indie",
+      "underground hip-hop"
+    ],
+    "similar_artists": [
+      "Tyler, The Creator",
+      "Chance the Rapper",
+      "Vince Staples",
+      "Mac Miller",
+      "Kid Cudi"
+    ],
+    "extracted_at": "2026-04-20T16:54:03.277378"
+  },
+  {
+    "rank": 118,
+    "artist_name": "Baco Exu do Blues",
+    "mbid": "d316f174-4056-4d7c-b551-99da9925932f",
+    "lastfm_url": "https://www.last.fm/music/Baco+Exu+do+Blues",
+    "listeners_brazil": 31784,
+    "listeners_global": 476623,
+    "playcount_global": 47463542,
+    "ontour": true,
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "trap",
+      "brazilian",
+      "brazil"
+    ],
+    "similar_artists": [
+      "Djonga",
+      "Yago Oproprio",
+      "Luiz Lins",
+      "Delacruz",
+      "L7NNON"
+    ],
+    "extracted_at": "2026-04-20T16:54:03.583008"
+  },
+  {
+    "rank": 119,
+    "artist_name": "Jeff Buckley",
+    "mbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
+    "lastfm_url": "https://www.last.fm/music/Jeff+Buckley",
+    "listeners_brazil": 31616,
+    "listeners_global": 3372957,
+    "playcount_global": 165919723,
+    "ontour": false,
+    "tags": [
+      "singer-songwriter",
+      "rock",
+      "alternative",
+      "folk",
+      "indie"
+    ],
+    "similar_artists": [
+      "Jeff Buckley & Gary Lucas",
+      "Radiohead",
+      "Elliott Smith",
+      "Tim Buckley",
+      "Nick Drake"
+    ],
+    "extracted_at": "2026-04-20T16:54:03.842592"
+  },
+  {
+    "rank": 120,
+    "artist_name": "Justin Timberlake",
+    "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
+    "lastfm_url": "https://www.last.fm/music/Justin+Timberlake",
+    "listeners_brazil": 31231,
+    "listeners_global": 5540371,
+    "playcount_global": 165645800,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "rnb",
+      "dance",
+      "male vocalists",
+      "Hip-Hop"
+    ],
+    "similar_artists": [
+      "*NSYNC",
+      "Robin Thicke",
+      "Timbaland",
+      "Usher",
+      "Jason Derülo"
+    ],
+    "extracted_at": "2026-04-20T16:54:04.121205"
+  },
+  {
+    "rank": 121,
+    "artist_name": "Selena Gomez",
+    "mbid": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+    "lastfm_url": "https://www.last.fm/music/Selena+Gomez",
+    "listeners_brazil": 31032,
+    "listeners_global": 3174324,
+    "playcount_global": 204237879,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "Disney",
+      "pop rock",
+      "dance"
+    ],
+    "similar_artists": [
+      "Selena Gomez & the Scene",
+      "Miley Cyrus",
+      "Camila Cabello",
+      "Bridgit Mendler",
+      "Demi Lovato"
+    ],
+    "extracted_at": "2026-04-20T16:54:04.377857"
+  },
+  {
+    "rank": 122,
+    "artist_name": "Legião Urbana",
+    "mbid": "47685be0-926f-4be9-b1ae-e32da47a3b99",
+    "lastfm_url": "https://www.last.fm/music/Legi%C3%A3o+Urbana",
+    "listeners_brazil": 31023,
+    "listeners_global": 756906,
+    "playcount_global": 45822704,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "brazilian rock",
+      "80s",
+      "brazilian",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Renato Russo",
+      "Engenheiros Do Hawaii",
+      "Os Paralamas Do Sucesso",
+      "Capital Inicial",
+      "Barão Vermelho"
+    ],
+    "extracted_at": "2026-04-20T16:54:04.811639"
+  },
+  {
+    "rank": 123,
+    "artist_name": "Sufjan Stevens",
+    "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+    "lastfm_url": "https://www.last.fm/music/Sufjan+Stevens",
+    "listeners_brazil": 30638,
+    "listeners_global": 3914053,
+    "playcount_global": 300445526,
+    "ontour": false,
+    "tags": [
+      "folk",
+      "indie",
+      "singer-songwriter",
+      "alternative",
+      "indie rock"
+    ],
+    "similar_artists": [
+      "Angelo De Augustine",
+      "Bon Iver",
+      "Joanna Newsom",
+      "Fleet Foxes",
+      "Big Thief"
+    ],
+    "extracted_at": "2026-04-20T16:54:05.075166"
+  },
+  {
+    "rank": 124,
+    "artist_name": "Vanessa da Mata",
+    "mbid": "f3580347-b84a-47d8-b86e-cad642322a47",
+    "lastfm_url": "https://www.last.fm/music/Vanessa+da+Mata",
+    "listeners_brazil": 30558,
+    "listeners_global": 759416,
+    "playcount_global": 19137154,
+    "ontour": true,
+    "tags": [
+      "mpb",
+      "female vocalists",
+      "brazilian",
+      "Bossa Nova",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Marisa Monte",
+      "Ana Carolina",
+      "Vanessa Rangel",
+      "Maria Bethânia",
+      "Tribalistas"
+    ],
+    "extracted_at": "2026-04-20T16:54:05.348698"
+  },
+  {
+    "rank": 125,
+    "artist_name": "A$AP Rocky",
+    "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+    "lastfm_url": "https://www.last.fm/music/A$AP+Rocky",
+    "listeners_brazil": 30383,
+    "listeners_global": 3446333,
+    "playcount_global": 369477553,
+    "ontour": true,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "swag",
+      "cloud rap"
+    ],
+    "similar_artists": [
+      "A$AP Mob",
+      "Baby Keem",
+      "Travi$ Scott",
+      "Denzel Curry",
+      "J. Cole"
+    ],
+    "extracted_at": "2026-04-20T16:54:05.643964"
+  },
+  {
+    "rank": 126,
+    "artist_name": "LUDMILLA",
+    "mbid": "cf71e106-1003-4390-8477-cf268229df66",
+    "lastfm_url": "https://www.last.fm/music/LUDMILLA",
+    "listeners_brazil": 30268,
+    "listeners_global": 550873,
+    "playcount_global": 48222485,
+    "ontour": true,
+    "tags": [
+      "funk",
+      "brazil",
+      "brazilian",
+      "pop",
+      "Pagode"
+    ],
+    "similar_artists": [
+      "Gloria Groove",
+      "IZA",
+      "Lexa",
+      "Anitta",
+      "POCAH"
+    ],
+    "extracted_at": "2026-04-20T16:54:05.932853"
+  },
+  {
+    "rank": 127,
+    "artist_name": "Chase Atlantic",
+    "mbid": "ecab255c-3af3-4154-87ec-2685041ce297",
+    "lastfm_url": "https://www.last.fm/music/Chase+Atlantic",
+    "listeners_brazil": 30112,
+    "listeners_global": 1870633,
+    "playcount_global": 203654444,
+    "ontour": false,
+    "tags": [
+      "rnb",
+      "australian",
+      "indie",
+      "rock",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Riley",
+      "Dutch Melrose",
+      "The Neighbourhood",
+      "Niki",
+      "Arthur Nery"
+    ],
+    "extracted_at": "2026-04-20T16:54:06.227555"
+  },
+  {
+    "rank": 128,
+    "artist_name": "Olivia Dean",
+    "mbid": "15e0d608-0869-429b-898d-3d8db3ecedd5",
+    "lastfm_url": "https://www.last.fm/music/Olivia+Dean",
+    "listeners_brazil": 30105,
+    "listeners_global": 1440584,
+    "playcount_global": 75811208,
+    "ontour": true,
+    "tags": [
+      "soul",
+      "rnb",
+      "pop",
+      "indie",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Nectar Woode",
+      "RAYE",
+      "Sienna Spiro",
+      "Harry Styles",
+      "Joy Crookes"
+    ],
+    "extracted_at": "2026-04-20T16:54:06.501382"
+  },
+  {
+    "rank": 129,
+    "artist_name": "David Guetta",
+    "mbid": "302bd7b9-d012-4360-897a-93b00c855680",
+    "lastfm_url": "https://www.last.fm/music/David+Guetta",
+    "listeners_brazil": 29928,
+    "listeners_global": 5225994,
+    "playcount_global": 188671934,
+    "ontour": true,
+    "tags": [
+      "House",
+      "dance",
+      "electronic",
+      "club",
+      "techno"
+    ],
+    "similar_artists": [
+      "Calvin Harris",
+      "Robin Schulz",
+      "Alesso",
+      "Ofenbach",
+      "Martin Garrix"
+    ],
+    "extracted_at": "2026-04-20T16:54:06.789591"
+  },
+  {
+    "rank": 130,
+    "artist_name": "Natiruts",
+    "mbid": "917e448b-fbed-4062-b563-67566a3b3bb1",
+    "lastfm_url": "https://www.last.fm/music/Natiruts",
+    "listeners_brazil": 29822,
+    "listeners_global": 549982,
+    "playcount_global": 18817332,
+    "ontour": false,
+    "tags": [
+      "reggae",
+      "brazilian",
+      "reggae brasileiro",
+      "brasil",
+      "Natiruts"
+    ],
+    "similar_artists": [
+      "Maneva",
+      "Planta e Raiz",
+      "Chimarruts",
+      "Armandinho",
+      "O Rappa"
+    ],
+    "extracted_at": "2026-04-20T16:54:07.059963"
+  },
+  {
+    "rank": 131,
+    "artist_name": "Cazuza",
+    "mbid": "e554daf4-4ad0-438f-a7f9-832519451fd2",
+    "lastfm_url": "https://www.last.fm/music/Cazuza",
+    "listeners_brazil": 29821,
+    "listeners_global": 689304,
+    "playcount_global": 25817893,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "rock",
+      "brazilian rock",
+      "brazilian",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Barão Vermelho",
+      "Ney Matogrosso",
+      "Cazuza & Bebel Gilberto",
+      "Cássia Eller",
+      "Lulu Santos"
+    ],
+    "extracted_at": "2026-04-20T16:54:07.529565"
+  },
+  {
+    "rank": 132,
+    "artist_name": "Luan Santana",
+    "mbid": "70598780-d9bf-47f3-9c7e-292f8608c103",
+    "lastfm_url": "https://www.last.fm/music/Luan+Santana",
+    "listeners_brazil": 29816,
+    "listeners_global": 465561,
+    "playcount_global": 35278737,
+    "ontour": true,
+    "tags": [
+      "sertanejo",
+      "brazilian",
+      "pop",
+      "Sertanejo Universitario",
+      "country"
+    ],
+    "similar_artists": [
+      "Jorge & Mateus",
+      "Henrique & Juliano",
+      "Matheus & Kauan",
+      "Cristiano Araújo",
+      "Zé Neto & Cristiano"
+    ],
+    "extracted_at": "2026-04-20T16:54:07.788227"
+  },
+  {
+    "rank": 133,
+    "artist_name": "Troye Sivan",
+    "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+    "lastfm_url": "https://www.last.fm/music/Troye+Sivan",
+    "listeners_brazil": 29705,
+    "listeners_global": 2452630,
+    "playcount_global": 170282362,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "indie pop",
+      "indie",
+      "male vocalists",
+      "synthpop"
+    ],
+    "similar_artists": [
+      "Lorde",
+      "Conan Gray",
+      "Ryan Beatty",
+      "Tove Lo",
+      "Charli xcx"
+    ],
+    "extracted_at": "2026-04-20T16:54:08.051007"
+  },
+  {
+    "rank": 134,
+    "artist_name": "Chico Buarque",
+    "mbid": "3a5d1cc7-627e-48ea-aba3-fdd20d782c33",
+    "lastfm_url": "https://www.last.fm/music/Chico+Buarque",
+    "listeners_brazil": 29661,
+    "listeners_global": 973796,
+    "playcount_global": 53756634,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "Bossa Nova",
+      "samba",
+      "brazilian",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Caetano Veloso",
+      "Cartola",
+      "Adoniran Barbosa",
+      "Elis Regina",
+      "Toquinho"
+    ],
+    "extracted_at": "2026-04-20T16:54:08.305201"
+  },
+  {
+    "rank": 135,
+    "artist_name": "Limp Bizkit",
+    "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+    "lastfm_url": "https://www.last.fm/music/Limp+Bizkit",
+    "listeners_brazil": 29641,
+    "listeners_global": 4126831,
+    "playcount_global": 179359303,
+    "ontour": true,
+    "tags": [
+      "Nu Metal",
+      "rapcore",
+      "alternative",
+      "rock",
+      "metal"
+    ],
+    "similar_artists": [
+      "Korn",
+      "Primer 55",
+      "Snot",
+      "Crazy Town",
+      "P.O.D."
+    ],
+    "extracted_at": "2026-04-20T16:54:08.558572"
+  },
+  {
+    "rank": 136,
+    "artist_name": "Red Velvet",
+    "mbid": "4f0cb3b7-6c06-4317-ae35-ddf3106a17ee",
+    "lastfm_url": "https://www.last.fm/music/Red+Velvet",
+    "listeners_brazil": 29509,
+    "listeners_global": 1406036,
+    "playcount_global": 245655219,
+    "ontour": false,
+    "tags": [
+      "k-pop",
+      "Kpop",
+      "pop",
+      "Korean",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "SEULGI",
+      "Wendy",
+      "Irene",
+      "Red Velvet - IRENE & SEULGI",
+      "Joy"
+    ],
+    "extracted_at": "2026-04-20T16:54:08.874258"
+  },
+  {
+    "rank": 137,
+    "artist_name": "ABBA",
+    "mbid": "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+    "lastfm_url": "https://www.last.fm/music/ABBA",
+    "listeners_brazil": 29222,
+    "listeners_global": 4389898,
+    "playcount_global": 191767626,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "Disco",
+      "70s",
+      "swedish",
+      "80s"
+    ],
+    "similar_artists": [
+      "Agnetha Fältskog",
+      "Frida",
+      "Boney M.",
+      "Bee Gees",
+      "Olivia Newton-John"
+    ],
+    "extracted_at": "2026-04-20T16:54:09.268113"
+  },
+  {
+    "rank": 138,
+    "artist_name": "Metallica",
+    "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+    "lastfm_url": "https://www.last.fm/music/Metallica",
+    "listeners_brazil": 29131,
+    "listeners_global": 5176265,
+    "playcount_global": 534714924,
+    "ontour": true,
+    "tags": [
+      "thrash metal",
+      "heavy metal",
+      "metal",
+      "hard rock",
+      "rock"
+    ],
+    "similar_artists": [
+      "Megadeth",
+      "Slayer",
+      "Pantera",
+      "Anthrax",
+      "Iron Maiden"
+    ],
+    "extracted_at": "2026-04-20T16:54:09.543431"
+  },
+  {
+    "rank": 139,
+    "artist_name": "Steve Lacy",
+    "mbid": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+    "lastfm_url": "https://www.last.fm/music/Steve+Lacy",
+    "listeners_brazil": 28979,
+    "listeners_global": 3114557,
+    "playcount_global": 288423887,
+    "ontour": false,
+    "tags": [
+      "free jazz",
+      "jazz",
+      "rnb",
+      "saxophone",
+      "Avant-Garde Jazz"
+    ],
+    "similar_artists": [
+      "The Internet",
+      "Matt Martians",
+      "Brent Faiyaz",
+      "Frank Ocean",
+      "Daniel Caesar"
+    ],
+    "extracted_at": "2026-04-20T16:54:09.813267"
+  },
+  {
+    "rank": 140,
+    "artist_name": "The Cranberries",
+    "mbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+    "lastfm_url": "https://www.last.fm/music/The+Cranberries",
+    "listeners_brazil": 28879,
+    "listeners_global": 4727078,
+    "playcount_global": 158203523,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "alternative",
+      "alternative rock",
+      "female vocalists",
+      "irish"
+    ],
+    "similar_artists": [
+      "Dolores O'Riordan",
+      "Alanis Morissette",
+      "Garbage",
+      "Sinéad O'Connor",
+      "Sixpence None the Richer"
+    ],
+    "extracted_at": "2026-04-20T16:54:10.230423"
+  },
+  {
+    "rank": 141,
+    "artist_name": "Jorge & Mateus",
+    "mbid": "311e7141-051a-40bc-bce5-7998b6c869ee",
+    "lastfm_url": "https://www.last.fm/music/Jorge+&+Mateus",
+    "listeners_brazil": 28844,
+    "listeners_global": 433074,
+    "playcount_global": 35992872,
+    "ontour": false,
+    "tags": [
+      "sertanejo",
+      "Sertanejo Universitario",
+      "brazilian",
+      "jorge e mateus",
+      "brazil"
+    ],
+    "similar_artists": [
+      "Henrique & Juliano",
+      "Matheus & Kauan",
+      "Zé Neto & Cristiano",
+      "Cristiano Araújo",
+      "Diego & Victor Hugo"
+    ],
+    "extracted_at": "2026-04-20T16:54:10.683740"
+  },
+  {
+    "rank": 142,
+    "artist_name": "Brandão85",
+    "mbid": "a74e0c38-87ca-4b14-bdaf-06e965b2c23b",
+    "lastfm_url": "https://www.last.fm/music/Brand%C3%A3o85",
+    "listeners_brazil": 28762,
+    "listeners_global": 122440,
+    "playcount_global": 14625901,
+    "ontour": false,
+    "tags": [
+      "fortaleza",
+      "goofy",
+      "trap BR",
+      "trap",
+      "caloteiro"
+    ],
+    "similar_artists": [
+      "Teto",
+      "Ryu, the Runner",
+      "Senndy",
+      "Emitê Único",
+      "LH CHUCRO"
+    ],
+    "extracted_at": "2026-04-20T16:54:10.961507"
+  },
+  {
+    "rank": 143,
+    "artist_name": "FKA twigs",
+    "mbid": "1e4e9db7-5068-4a9c-bdd0-5777e47172c8",
+    "lastfm_url": "https://www.last.fm/music/FKA+twigs",
+    "listeners_brazil": 28070,
+    "listeners_global": 1669941,
+    "playcount_global": 153989512,
+    "ontour": true,
+    "tags": [
+      "trip-hop",
+      "electronic",
+      "experimental",
+      "dream pop",
+      "alternative rnb"
+    ],
+    "similar_artists": [
+      "Kelela",
+      "Arca",
+      "Björk",
+      "Oklou",
+      "Eartheater"
+    ],
+    "extracted_at": "2026-04-20T16:54:11.224583"
+  },
+  {
+    "rank": 144,
+    "artist_name": "Eminem",
+    "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+    "lastfm_url": "https://www.last.fm/music/Eminem",
+    "listeners_brazil": 28023,
+    "listeners_global": 7781816,
+    "playcount_global": 567736379,
+    "ontour": false,
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "hip hop",
+      "Eminem",
+      "pop"
+    ],
+    "similar_artists": [
+      "D12",
+      "Bad Meets Evil",
+      "Obie Trice",
+      "Ca$his",
+      "Stat Quo"
+    ],
+    "extracted_at": "2026-04-20T16:54:11.501192"
+  },
+  {
+    "rank": 145,
+    "artist_name": "Pabllo Vittar",
+    "mbid": "d9550ac2-7bcf-4655-a3fe-24922e254a74",
+    "lastfm_url": "https://www.last.fm/music/Pabllo+Vittar",
+    "listeners_brazil": 28017,
+    "listeners_global": 621614,
+    "playcount_global": 99757201,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "drag queen",
+      "brazilian",
+      "tecnobrega",
+      "drag"
+    ],
+    "similar_artists": [
+      "Lia Clark",
+      "Gloria Groove",
+      "Anitta",
+      "Aretuza Lovi",
+      "Urias"
+    ],
+    "extracted_at": "2026-04-20T16:54:11.787924"
+  },
+  {
+    "rank": 146,
+    "artist_name": "Cigarettes After Sex",
+    "mbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0",
+    "lastfm_url": "https://www.last.fm/music/Cigarettes+After+Sex",
+    "listeners_brazil": 27929,
+    "listeners_global": 2880737,
+    "playcount_global": 312151918,
+    "ontour": false,
+    "tags": [
+      "dream pop",
+      "shoegaze",
+      "slowcore",
+      "Lo-Fi",
+      "indie"
+    ],
+    "similar_artists": [
+      "Strawberry Guy",
+      "Bubble Tea and Cigarettes",
+      "Dream, Ivory",
+      "Cemeteries",
+      "Salvia Palth"
+    ],
+    "extracted_at": "2026-04-20T16:54:12.060427"
+  },
+  {
+    "rank": 147,
+    "artist_name": "Marília Mendonça",
+    "mbid": "caeef712-a58f-469b-bfb6-edbd47612cdd",
+    "lastfm_url": "https://www.last.fm/music/Mar%C3%ADlia+Mendon%C3%A7a",
+    "listeners_brazil": 27688,
+    "listeners_global": 470022,
+    "playcount_global": 48955587,
+    "ontour": false,
+    "tags": [
+      "sertanejo",
+      "brazil",
+      "pop",
+      "brasil",
+      "Sertanejo Universitario"
+    ],
+    "similar_artists": [
+      "Maiara & Maraisa",
+      "Henrique & Juliano",
+      "Zé Neto & Cristiano",
+      "Matheus & Kauan",
+      "Jorge & Mateus"
+    ],
+    "extracted_at": "2026-04-20T16:54:12.330806"
+  },
+  {
+    "rank": 148,
+    "artist_name": "Veigh",
+    "mbid": "8b660aba-0b50-4925-a5e4-ad9dec7b5d54",
+    "lastfm_url": "https://www.last.fm/music/Veigh",
+    "listeners_brazil": 27657,
+    "listeners_global": 319497,
+    "playcount_global": 36409431,
+    "ontour": false,
+    "tags": [
+      "trap",
+      "rap",
+      "trap BR",
+      "Hip-Hop",
+      "teen"
+    ],
+    "similar_artists": [
+      "nagalli",
+      "KayBlack",
+      "Vulgo FK",
+      "G.A.",
+      "Niink"
+    ],
+    "extracted_at": "2026-04-20T16:54:12.597127"
+  },
+  {
+    "rank": 149,
+    "artist_name": "Los Hermanos",
+    "mbid": "557ac15e-7800-44c3-bb62-d4ab34ac1e28",
+    "lastfm_url": "https://www.last.fm/music/Los+Hermanos",
+    "listeners_brazil": 27608,
+    "listeners_global": 805515,
+    "playcount_global": 63862659,
+    "ontour": false,
+    "tags": [
+      "brazilian",
+      "mpb",
+      "alternative rock",
+      "indie",
+      "rock"
+    ],
+    "similar_artists": [
+      "Marcelo Camelo",
+      "Selvagens À Procura de Lei",
+      "Banda do Mar",
+      "Little Joy",
+      "Cícero"
+    ],
+    "extracted_at": "2026-04-20T16:54:12.854473"
+  },
+  {
+    "rank": 150,
+    "artist_name": "Bring Me the Horizon",
+    "mbid": "074e3847-f67f-49f9-81f1-8c8cea147e8e",
+    "lastfm_url": "https://www.last.fm/music/Bring+Me+the+Horizon",
+    "listeners_brazil": 27596,
+    "listeners_global": 2826090,
+    "playcount_global": 323678018,
+    "ontour": true,
+    "tags": [
+      "deathcore",
+      "metalcore",
+      "screamo",
+      "hardcore",
+      "metal"
+    ],
+    "similar_artists": [
+      "Bad Omens",
+      "The Plot in You",
+      "Motionless in White",
+      "Asking Alexandria",
+      "Architects"
+    ],
+    "extracted_at": "2026-04-20T16:54:13.117382"
+  },
+  {
+    "rank": 151,
+    "artist_name": "Oasis",
+    "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
+    "lastfm_url": "https://www.last.fm/music/Oasis",
+    "listeners_brazil": 27331,
+    "listeners_global": 5871939,
+    "playcount_global": 328196598,
+    "ontour": false,
+    "tags": [
+      "britpop",
+      "rock",
+      "british",
+      "alternative",
+      "indie"
+    ],
+    "similar_artists": [
+      "Liam Gallagher",
+      "Noel Gallagher's High Flying Birds",
+      "Beady Eye",
+      "Noel Gallagher",
+      "The Stone Roses"
+    ],
+    "extracted_at": "2026-04-20T16:54:13.381706"
+  },
+  {
+    "rank": 152,
+    "artist_name": "Nelly Furtado",
+    "mbid": "13655113-cd16-4b43-9dca-cadbbf26ee05",
+    "lastfm_url": "https://www.last.fm/music/Nelly+Furtado",
+    "listeners_brazil": 27331,
+    "listeners_global": 4851715,
+    "playcount_global": 117748500,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "female vocalists",
+      "folk",
+      "Canadian",
+      "singer-songwriter"
+    ],
+    "similar_artists": [
+      "Gwen Stefani",
+      "Jennifer Lopez",
+      "Christina Aguilera",
+      "The Pussycat Dolls",
+      "Fergie"
+    ],
+    "extracted_at": "2026-04-20T16:54:13.681321"
+  },
+  {
+    "rank": 153,
+    "artist_name": "Mariah Carey",
+    "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4",
+    "lastfm_url": "https://www.last.fm/music/Mariah+Carey",
+    "listeners_brazil": 27246,
+    "listeners_global": 5062010,
+    "playcount_global": 253429931,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "rnb",
+      "female vocalists",
+      "soul",
+      "Mariah Carey"
+    ],
+    "similar_artists": [
+      "Whitney Houston",
+      "Janet Jackson",
+      "Toni Braxton",
+      "Brandy",
+      "Destiny's Child"
+    ],
+    "extracted_at": "2026-04-20T16:54:13.941020"
+  },
+  {
+    "rank": 154,
+    "artist_name": "Tribalistas",
+    "mbid": "a27207ee-a79e-4887-aa65-e644d2702f5e",
+    "lastfm_url": "https://www.last.fm/music/Tribalistas",
+    "listeners_brazil": 26829,
+    "listeners_global": 661615,
+    "playcount_global": 16786322,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "brazilian",
+      "brasil",
+      "brazil",
+      "latin"
+    ],
+    "similar_artists": [
+      "Marisa Monte",
+      "Vanessa da Mata",
+      "Rita Lee, Roberto de Carvalho",
+      "Nando Reis",
+      "Paula Toller"
+    ],
+    "extracted_at": "2026-04-20T16:54:14.230179"
+  },
+  {
+    "rank": 155,
+    "artist_name": "João Gomes",
+    "mbid": "1edb1202-6a79-4fab-b12c-dc9ab853a168",
+    "lastfm_url": "https://www.last.fm/music/Jo%C3%A3o+Gomes",
+    "listeners_brazil": 26617,
+    "listeners_global": 370076,
+    "playcount_global": 18195321,
+    "ontour": true,
+    "tags": [
+      "Forro",
+      "piseiro",
+      "brazil",
+      "brasil",
+      "boy"
+    ],
+    "similar_artists": [
+      "Zé Vaqueiro",
+      "Tarcísio Do Acordeon",
+      "Nattan",
+      "Os Barões Da Pisadinha",
+      "Manim Vaqueiro"
+    ],
+    "extracted_at": "2026-04-20T16:54:14.490434"
+  },
+  {
+    "rank": 156,
+    "artist_name": "Djonga",
+    "mbid": "7228b556-4896-4255-9323-a78bcb42f528",
+    "lastfm_url": "https://www.last.fm/music/Djonga",
+    "listeners_brazil": 26499,
+    "listeners_global": 345249,
+    "playcount_global": 31794175,
+    "ontour": true,
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "brazilian",
+      "brasil",
+      "Rap Nacional"
+    ],
+    "similar_artists": [
+      "Bk'",
+      "Sant",
+      "Yago Oproprio",
+      "Pineapple StormTV",
+      "Xamã"
+    ],
+    "extracted_at": "2026-04-20T16:54:14.782870"
+  },
+  {
+    "rank": 157,
+    "artist_name": "Jão",
+    "mbid": "27717b72-90bc-4f4f-9d0e-13a69bdfe00e",
+    "lastfm_url": "https://www.last.fm/music/J%C3%A3o",
+    "listeners_brazil": 26410,
+    "listeners_global": 435457,
+    "playcount_global": 98477998,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "brazilian",
+      "alternative",
+      "brasil",
+      "male vocalists"
+    ],
+    "similar_artists": [
+      "Anavitória",
+      "Manu Gavassi",
+      "Clarissa",
+      "Lagum",
+      "Luísa Sonza, Jão"
+    ],
+    "extracted_at": "2026-04-20T16:54:15.129001"
+  },
+  {
+    "rank": 158,
+    "artist_name": "Caetano Veloso",
+    "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+    "lastfm_url": "https://www.last.fm/music/Caetano+Veloso",
+    "listeners_brazil": 26318,
+    "listeners_global": 1108235,
+    "playcount_global": 48916076,
+    "ontour": true,
+    "tags": [
+      "mpb",
+      "Bossa Nova",
+      "tropicalia",
+      "brazilian",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Gilberto Gil",
+      "Gal Costa",
+      "Maria Bethânia",
+      "Caetano Veloso & Gilberto Gil",
+      "Elis Regina"
+    ],
+    "extracted_at": "2026-04-20T16:54:15.426951"
+  },
+  {
+    "rank": 159,
+    "artist_name": "Lil Peep",
+    "mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+    "lastfm_url": "https://www.last.fm/music/Lil+Peep",
+    "listeners_brazil": 26260,
+    "listeners_global": 2198940,
+    "playcount_global": 375118281,
+    "ontour": false,
+    "tags": [
+      "cloud rap",
+      "emo rap",
+      "rap",
+      "Hip-Hop",
+      "emo"
+    ],
+    "similar_artists": [
+      "lil peep, lil tracy",
+      "Lil Tracy",
+      "sincewhen",
+      "Lil Peep & Lil Tracy",
+      "yunggoth✰"
+    ],
+    "extracted_at": "2026-04-20T16:54:15.712698"
+  },
+  {
+    "rank": 160,
+    "artist_name": "Muse",
+    "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+    "lastfm_url": "https://www.last.fm/music/Muse",
+    "listeners_brazil": 25993,
+    "listeners_global": 6386546,
+    "playcount_global": 570362563,
+    "ontour": true,
+    "tags": [
+      "alternative rock",
+      "rock",
+      "Progressive rock",
+      "alternative",
+      "indie"
+    ],
+    "similar_artists": [
+      "Royal Blood",
+      "Placebo",
+      "Nothing But Thieves",
+      "Radiohead",
+      "Franz Ferdinand"
+    ],
+    "extracted_at": "2026-04-20T16:54:16.016920"
+  },
+  {
+    "rank": 161,
+    "artist_name": "Jung Kook",
+    "mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+    "lastfm_url": "https://www.last.fm/music/Jung+Kook",
+    "listeners_brazil": 25977,
+    "listeners_global": 1486388,
+    "playcount_global": 809920178,
+    "ontour": false,
+    "tags": [
+      "k-pop",
+      "pop",
+      "Korean",
+      "bts",
+      "jungkook"
+    ],
+    "similar_artists": [
+      "Jung Kook, Jack Harlow",
+      "V",
+      "j-hope",
+      "RM",
+      "Jung Kook, BTS, FIFA Sound"
+    ],
+    "extracted_at": "2026-04-20T16:54:16.282597"
+  },
+  {
+    "rank": 162,
+    "artist_name": "Djo",
+    "mbid": "83cedfd0-a118-48eb-ad71-72f4c2f95fd2",
+    "lastfm_url": "https://www.last.fm/music/Djo",
+    "listeners_brazil": 25871,
+    "listeners_global": 2328534,
+    "playcount_global": 93202475,
+    "ontour": true,
+    "tags": [
+      "psychedelic pop",
+      "indie pop",
+      "indie",
+      "psychedelic",
+      "indie rock"
+    ],
+    "similar_artists": [
+      "Post Animal",
+      "Wallows",
+      "Balu Brigada",
+      "Tame Impala",
+      "The 1975"
+    ],
+    "extracted_at": "2026-04-20T16:54:16.578080"
+  },
+  {
+    "rank": 163,
+    "artist_name": "Green Day",
+    "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+    "lastfm_url": "https://www.last.fm/music/Green+Day",
+    "listeners_brazil": 25870,
+    "listeners_global": 6581304,
+    "playcount_global": 445388225,
+    "ontour": false,
+    "tags": [
+      "punk rock",
+      "rock",
+      "punk",
+      "pop punk",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Foxboro Hot Tubs",
+      "The Network",
+      "Pinhead Gunpowder",
+      "Billie Joe Armstrong",
+      "blink-182"
+    ],
+    "extracted_at": "2026-04-20T16:54:16.852324"
+  },
+  {
+    "rank": 164,
+    "artist_name": "FBC",
+    "mbid": "1057a765-2447-4bd5-b977-d62b0505e03a",
+    "lastfm_url": "https://www.last.fm/music/FBC",
+    "listeners_brazil": 25856,
+    "listeners_global": 366820,
+    "playcount_global": 22067717,
+    "ontour": true,
+    "tags": [
+      "brazilian",
+      "brazil",
+      "trap",
+      "Hip-Hop",
+      "slamcore"
+    ],
+    "similar_artists": [
+      "Djonga",
+      "Sant",
+      "Akira Presidente",
+      "Febre90s",
+      "Yago Oproprio"
+    ],
+    "extracted_at": "2026-04-20T16:54:17.161845"
+  },
+  {
+    "rank": 165,
+    "artist_name": "Henrique & Juliano",
+    "mbid": "99329c41-2069-4c12-8e8c-035fdf5127a5",
+    "lastfm_url": "https://www.last.fm/music/Henrique+&+Juliano",
+    "listeners_brazil": 25800,
+    "listeners_global": 392901,
+    "playcount_global": 34105466,
+    "ontour": true,
+    "tags": [
+      "sertanejo",
+      "brazilian country",
+      "Sertaneja",
+      "Sertanejo Universitario",
+      "brazil"
+    ],
+    "similar_artists": [
+      "Zé Neto & Cristiano",
+      "Matheus & Kauan",
+      "Jorge & Mateus",
+      "Diego & Victor Hugo",
+      "Cristiano Araújo"
+    ],
+    "extracted_at": "2026-04-20T16:54:17.444054"
+  },
+  {
+    "rank": 166,
+    "artist_name": "AJULLIACOSTA",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/AJULLIACOSTA",
+    "listeners_brazil": 25779,
+    "listeners_global": 95697,
+    "playcount_global": 1745757,
+    "ontour": false,
+    "tags": [
+      "Hip-Hop",
+      "funk",
+      "brazil",
+      "rap",
+      "afrobeat"
+    ],
+    "similar_artists": [
+      "Ajuliacosta",
+      "Mc Luanna",
+      "Duquesa",
+      "Tasha & Tracie",
+      "larinhx"
+    ],
+    "extracted_at": "2026-04-20T16:54:17.716827"
+  },
+  {
+    "rank": 167,
+    "artist_name": "Racionais MC's",
+    "mbid": null,
+    "lastfm_url": "https://www.last.fm/music/Racionais+MC%27s",
+    "listeners_brazil": 25662,
+    "listeners_global": 420319,
+    "playcount_global": 28556771,
+    "ontour": false,
+    "tags": [
+      "rap",
+      "brazilian",
+      "hip hop",
+      "Rap Nacional",
+      "brazilian rap"
+    ],
+    "similar_artists": [
+      "Sabotage",
+      "Trilha Sonora do Gueto",
+      "509-E",
+      "Facção Central",
+      "MV Bill"
+    ],
+    "extracted_at": "2026-04-20T16:54:17.985574"
+  },
+  {
+    "rank": 168,
+    "artist_name": "Malcolm Todd",
+    "mbid": "6c2a79b8-2b5c-4c2d-b495-6a446811bf9d",
+    "lastfm_url": "https://www.last.fm/music/Malcolm+Todd",
+    "listeners_brazil": 25657,
+    "listeners_global": 1265705,
+    "playcount_global": 90081308,
+    "ontour": true,
+    "tags": [
+      "alternative rnb",
+      "indie",
+      "indie rock",
+      "USA",
+      "ten million plays"
+    ],
+    "similar_artists": [
+      "Troy Javelona",
+      "Zach Templar",
+      "Dominic Fike",
+      "grentperez",
+      "LAUNDRY DAY"
+    ],
+    "extracted_at": "2026-04-20T16:54:18.486507"
+  },
+  {
+    "rank": 169,
+    "artist_name": "Amy Winehouse",
+    "mbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+    "lastfm_url": "https://www.last.fm/music/Amy+Winehouse",
+    "listeners_brazil": 25562,
+    "listeners_global": 4624261,
+    "playcount_global": 204180905,
+    "ontour": false,
+    "tags": [
+      "soul",
+      "jazz",
+      "female vocalists",
+      "british",
+      "singer-songwriter"
+    ],
+    "similar_artists": [
+      "Corinne Bailey Rae",
+      "Duffy",
+      "Adele",
+      "Erykah Badu",
+      "Sade"
+    ],
+    "extracted_at": "2026-04-20T16:54:18.756902"
+  },
+  {
+    "rank": 170,
+    "artist_name": "Preta Gil",
+    "mbid": "6348666a-b266-49d7-836c-b9d4741ba646",
+    "lastfm_url": "https://www.last.fm/music/Preta+Gil",
+    "listeners_brazil": 25558,
+    "listeners_global": 224754,
+    "playcount_global": 2885048,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "brazilian",
+      "mpb",
+      "female vocalist",
+      "brazilian music"
+    ],
+    "similar_artists": [
+      "Vanessa Rangel",
+      "Vanessa da Mata",
+      "Ivete Sangalo",
+      "Jorge Vercillo",
+      "Marina Sena"
+    ],
+    "extracted_at": "2026-04-20T16:54:19.058049"
+  },
+  {
+    "rank": 171,
+    "artist_name": "O Rappa",
+    "mbid": "00034ede-a1f1-4219-be39-02f36853373e",
+    "lastfm_url": "https://www.last.fm/music/O+Rappa",
+    "listeners_brazil": 25456,
+    "listeners_global": 504700,
+    "playcount_global": 19380272,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "reggae",
+      "brazilian",
+      "brazilian rock",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Natiruts",
+      "Charlie Brown Jr.",
+      "Marcelo Falcão",
+      "Cidade Negra",
+      "Detonautas Roque Clube"
+    ],
+    "extracted_at": "2026-04-20T16:54:19.433642"
+  },
+  {
+    "rank": 172,
+    "artist_name": "Hozier",
+    "mbid": "b4691384-50c3-4afd-9988-51d3ec5db65d",
+    "lastfm_url": "https://www.last.fm/music/Hozier",
+    "listeners_brazil": 25335,
+    "listeners_global": 3338502,
+    "playcount_global": 283015379,
+    "ontour": false,
+    "tags": [
+      "blues",
+      "indie",
+      "soul",
+      "singer-songwriter",
+      "irish"
+    ],
+    "similar_artists": [
+      "Noah Kahan",
+      "Gigi Perez",
+      "Florence + the Machine",
+      "The Crane Wives",
+      "The Lumineers"
+    ],
+    "extracted_at": "2026-04-20T16:54:19.680251"
+  },
+  {
+    "rank": 173,
+    "artist_name": "Kate Bush",
+    "mbid": "4b585938-f271-45e2-b19a-91c634b5e396",
+    "lastfm_url": "https://www.last.fm/music/Kate+Bush",
+    "listeners_brazil": 25320,
+    "listeners_global": 3460558,
+    "playcount_global": 145511059,
+    "ontour": false,
+    "tags": [
+      "female vocalists",
+      "singer-songwriter",
+      "pop",
+      "alternative",
+      "80s"
+    ],
+    "similar_artists": [
+      "Björk",
+      "Tori Amos",
+      "Fiona Apple",
+      "PJ Harvey",
+      "Joni Mitchell"
+    ],
+    "extracted_at": "2026-04-20T16:54:19.960528"
+  },
+  {
+    "rank": 174,
+    "artist_name": "Post Malone",
+    "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+    "lastfm_url": "https://www.last.fm/music/Post+Malone",
+    "listeners_brazil": 25204,
+    "listeners_global": 3534565,
+    "playcount_global": 332089875,
+    "ontour": true,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "trap",
+      "cloud rap",
+      "pop"
+    ],
+    "similar_artists": [
+      "Tyla Yaweh",
+      "The Kid LAROI",
+      "iann dior",
+      "24kGoldn",
+      "Shaboozey"
+    ],
+    "extracted_at": "2026-04-20T16:54:20.208637"
+  },
+  {
+    "rank": 175,
+    "artist_name": "Pearl Jam",
+    "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+    "lastfm_url": "https://www.last.fm/music/Pearl+Jam",
+    "listeners_brazil": 25055,
+    "listeners_global": 4358237,
+    "playcount_global": 253711741,
+    "ontour": false,
+    "tags": [
+      "Grunge",
+      "rock",
+      "alternative rock",
+      "90s",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Eddie Vedder",
+      "Temple of the Dog",
+      "Soundgarden",
+      "Chris Cornell",
+      "Stone Temple Pilots"
+    ],
+    "extracted_at": "2026-04-20T16:54:20.485410"
+  },
+  {
+    "rank": 176,
+    "artist_name": "Pierce the Veil",
+    "mbid": "8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d",
+    "lastfm_url": "https://www.last.fm/music/Pierce+the+Veil",
+    "listeners_brazil": 25046,
+    "listeners_global": 2092229,
+    "playcount_global": 270124244,
+    "ontour": true,
+    "tags": [
+      "post-hardcore",
+      "emocore",
+      "experimental",
+      "emo",
+      "post hardcore"
+    ],
+    "similar_artists": [
+      "Sleeping With Sirens",
+      "Isles & Glaciers",
+      "Before Today",
+      "My Chemical Romance",
+      "Picture Me Broken"
+    ],
+    "extracted_at": "2026-04-20T16:54:20.743299"
+  },
+  {
+    "rank": 177,
+    "artist_name": "Lisa",
+    "mbid": "70198b37-f6c7-4cc7-a728-4224e860a15f",
+    "lastfm_url": "https://www.last.fm/music/Lisa",
+    "listeners_brazil": 25018,
+    "listeners_global": 1957812,
+    "playcount_global": 128768844,
+    "ontour": false,
+    "tags": [
+      "j-pop",
+      "japanese",
+      "female vocalists",
+      "pop",
+      "Hip-Hop"
+    ],
+    "similar_artists": [
+      "Jennie",
+      "JISOO",
+      "BLACKPINK",
+      "Rosé",
+      "Meovv"
+    ],
+    "extracted_at": "2026-04-20T16:54:21.020726"
+  },
+  {
+    "rank": 178,
+    "artist_name": "Ferrugem",
+    "mbid": "4677c3cf-cc38-4e88-9969-bd3d3bf9fda1",
+    "lastfm_url": "https://www.last.fm/music/Ferrugem",
+    "listeners_brazil": 24988,
+    "listeners_global": 328494,
+    "playcount_global": 11809778,
+    "ontour": true,
+    "tags": [
+      "Pagode",
+      "brazil",
+      "brasil",
+      "brazilian",
+      "samba"
+    ],
+    "similar_artists": [
+      "Turma do Pagode",
+      "Pixote",
+      "Grupo Menos É Mais",
+      "Mumuzinho",
+      "Sorriso Maroto"
+    ],
+    "extracted_at": "2026-04-20T16:54:21.280313"
+  },
+  {
+    "rank": 179,
+    "artist_name": "Adele",
+    "mbid": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+    "lastfm_url": "https://www.last.fm/music/Adele",
+    "listeners_brazil": 24975,
+    "listeners_global": 5614270,
+    "playcount_global": 318391467,
+    "ontour": false,
+    "tags": [
+      "soul",
+      "female vocalists",
+      "british",
+      "singer-songwriter",
+      "indie"
+    ],
+    "similar_artists": [
+      "Sam Smith",
+      "Whitney Houston",
+      "Beyoncé",
+      "Sia",
+      "Amy Winehouse"
+    ],
+    "extracted_at": "2026-04-20T16:54:21.607812"
+  },
+  {
+    "rank": 180,
+    "artist_name": "Mac Miller",
+    "mbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+    "lastfm_url": "https://www.last.fm/music/Mac+Miller",
+    "listeners_brazil": 24951,
+    "listeners_global": 3521041,
+    "playcount_global": 432319865,
+    "ontour": false,
+    "tags": [
+      "Hip-Hop",
+      "rap",
+      "underground hip-hop",
+      "hip hop",
+      "pittsburgh"
+    ],
+    "similar_artists": [
+      "Joey Bada$$",
+      "Isaiah Rashad",
+      "Vince Staples",
+      "Logic",
+      "Childish Gambino"
+    ],
+    "extracted_at": "2026-04-20T16:54:21.949667"
+  },
+  {
+    "rank": 181,
+    "artist_name": "Kesha",
+    "mbid": "fab34286-b8e1-4879-bce3-194e1358fbd2",
+    "lastfm_url": "https://www.last.fm/music/Kesha",
+    "listeners_brazil": 24858,
+    "listeners_global": 3149809,
+    "playcount_global": 118492898,
+    "ontour": false,
+    "tags": [],
+    "similar_artists": [],
+    "extracted_at": "2026-04-20T16:54:22.210521"
+  },
+  {
+    "rank": 182,
+    "artist_name": "Pitty",
+    "mbid": "fecdd690-a3e6-4e30-a789-3bd0f71a69c9",
+    "lastfm_url": "https://www.last.fm/music/Pitty",
+    "listeners_brazil": 24802,
+    "listeners_global": 695687,
+    "playcount_global": 33462711,
+    "ontour": false,
+    "tags": [
+      "rock",
+      "female vocalists",
+      "brazilian",
+      "brazilian rock",
+      "alternative rock"
+    ],
+    "similar_artists": [
+      "Agridoce",
+      "CPM 22",
+      "Detonautas Roque Clube",
+      "NX Zero",
+      "Luxúria"
+    ],
+    "extracted_at": "2026-04-20T16:54:22.473023"
+  },
+  {
+    "rank": 183,
+    "artist_name": "Elis Regina",
+    "mbid": "e9e85a54-074c-4d29-a886-bcaaa9d44f9f",
+    "lastfm_url": "https://www.last.fm/music/Elis+Regina",
+    "listeners_brazil": 24764,
+    "listeners_global": 1036286,
+    "playcount_global": 28217045,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "Bossa Nova",
+      "brazilian",
+      "female vocalists",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Gal Costa",
+      "Caetano Veloso",
+      "Antonio Carlos Jobim & Elis Regina",
+      "Rita Lee",
+      "Maria Bethânia"
+    ],
+    "extracted_at": "2026-04-20T16:54:22.784643"
+  },
+  {
+    "rank": 184,
+    "artist_name": "Filipe Ret",
+    "mbid": "e0bce080-b2b8-4140-a0f2-ccc886ffad8c",
+    "lastfm_url": "https://www.last.fm/music/Filipe+Ret",
+    "listeners_brazil": 24741,
+    "listeners_global": 353595,
+    "playcount_global": 28792990,
+    "ontour": true,
+    "tags": [
+      "rap",
+      "brazilian",
+      "Hip-Hop",
+      "hip hop",
+      "underground"
+    ],
+    "similar_artists": [
+      "L7NNON",
+      "Pineapple StormTV",
+      "Djonga",
+      "Xamã",
+      "Borges"
+    ],
+    "extracted_at": "2026-04-20T16:54:23.044983"
+  },
+  {
+    "rank": 185,
+    "artist_name": "Maria Bethânia",
+    "mbid": "b3998c06-04e6-4b1d-bd2a-d5b83572ae7b",
+    "lastfm_url": "https://www.last.fm/music/Maria+Beth%C3%A2nia",
+    "listeners_brazil": 24525,
+    "listeners_global": 574536,
+    "playcount_global": 27086973,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "Bossa Nova",
+      "female vocalists",
+      "brasil",
+      "brazilian"
+    ],
+    "similar_artists": [
+      "Gal Costa",
+      "Caetano Veloso",
+      "Angela Ro Ro",
+      "Gilberto Gil",
+      "Marina Lima"
+    ],
+    "extracted_at": "2026-04-20T16:54:23.751341"
+  },
+  {
+    "rank": 186,
+    "artist_name": "Black Sabbath",
+    "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+    "lastfm_url": "https://www.last.fm/music/Black+Sabbath",
+    "listeners_brazil": 24370,
+    "listeners_global": 4393033,
+    "playcount_global": 210165416,
+    "ontour": false,
+    "tags": [
+      "heavy metal",
+      "hard rock",
+      "classic rock",
+      "metal",
+      "rock"
+    ],
+    "similar_artists": [
+      "Ozzy Osbourne",
+      "Dio",
+      "Heaven & Hell",
+      "Judas Priest",
+      "Motörhead"
+    ],
+    "extracted_at": "2026-04-20T16:54:24.008551"
+  },
+  {
+    "rank": 187,
+    "artist_name": "Hearts2Hearts",
+    "mbid": "066080a4-84c7-46c6-91d3-dc10d572749b",
+    "lastfm_url": "https://www.last.fm/music/Hearts2Hearts",
+    "listeners_brazil": 24118,
+    "listeners_global": 424042,
+    "playcount_global": 21594419,
+    "ontour": true,
+    "tags": [
+      "k-pop",
+      "Korean",
+      "Kpop",
+      "girl group",
+      "sm entertainment"
+    ],
+    "similar_artists": [
+      "KiiiKiii",
+      "RESCENE",
+      "ILLIT",
+      "IVE",
+      "NMIXX"
+    ],
+    "extracted_at": "2026-04-20T16:54:24.295955"
+  },
+  {
+    "rank": 188,
+    "artist_name": "David Bowie",
+    "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+    "lastfm_url": "https://www.last.fm/music/David+Bowie",
+    "listeners_brazil": 23934,
+    "listeners_global": 5590943,
+    "playcount_global": 404270174,
+    "ontour": false,
+    "tags": [
+      "glam rock",
+      "rock",
+      "classic rock",
+      "80s",
+      "alternative"
+    ],
+    "similar_artists": [
+      "Tin Machine",
+      "Iggy Pop",
+      "Lou Reed",
+      "T. Rex",
+      "Roxy Music"
+    ],
+    "extracted_at": "2026-04-20T16:54:24.558360"
+  },
+  {
+    "rank": 189,
+    "artist_name": "Halsey",
+    "mbid": "3377f3bb-60fc-4403-aea9-7e800612e060",
+    "lastfm_url": "https://www.last.fm/music/Halsey",
+    "listeners_brazil": 23905,
+    "listeners_global": 2833930,
+    "playcount_global": 222383277,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "indie pop",
+      "indie",
+      "alternative",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Tove Lo",
+      "Fletcher",
+      "Hayley Kiyoko",
+      "Bea Miller",
+      "Ke$ha"
+    ],
+    "extracted_at": "2026-04-20T16:54:24.944562"
+  },
+  {
+    "rank": 190,
+    "artist_name": "Major Lazer",
+    "mbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+    "lastfm_url": "https://www.last.fm/music/Major+Lazer",
+    "listeners_brazil": 23897,
+    "listeners_global": 2985169,
+    "playcount_global": 69604565,
+    "ontour": true,
+    "tags": [
+      "electronic",
+      "dancehall",
+      "reggae",
+      "dub",
+      "electro"
+    ],
+    "similar_artists": [
+      "Calvin Harris",
+      "Clean Bandit",
+      "Sean Paul",
+      "The Chainsmokers",
+      "Martin Solveig"
+    ],
+    "extracted_at": "2026-04-20T16:54:25.239957"
+  },
+  {
+    "rank": 191,
+    "artist_name": "bôa",
+    "mbid": "ca1dcba2-792c-4550-abf2-7b45396e81ca",
+    "lastfm_url": "https://www.last.fm/music/b%C3%B4a",
+    "listeners_brazil": 23845,
+    "listeners_global": 2119619,
+    "playcount_global": 82308450,
+    "ontour": true,
+    "tags": [
+      "alternative rock",
+      "alternative",
+      "rock",
+      "indie",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Black Box Recorder",
+      "The Cardigans",
+      "MASS OF THE FERMENTING DREGS",
+      "Radiohead",
+      "The Sundays"
+    ],
+    "extracted_at": "2026-04-20T16:54:25.531129"
+  },
+  {
+    "rank": 192,
+    "artist_name": "Rubel",
+    "mbid": "c8e13148-c14a-4d07-95ef-f53d31e49e10",
+    "lastfm_url": "https://www.last.fm/music/Rubel",
+    "listeners_brazil": 23830,
+    "listeners_global": 449849,
+    "playcount_global": 16731365,
+    "ontour": false,
+    "tags": [
+      "brazilian",
+      "folk",
+      "indie",
+      "brasil",
+      "mpb"
+    ],
+    "similar_artists": [
+      "Tim Bernardes",
+      "Cícero",
+      "O Terno",
+      "Phill Veras",
+      "Chapéu de Palha"
+    ],
+    "extracted_at": "2026-04-20T16:54:25.942069"
+  },
+  {
+    "rank": 193,
+    "artist_name": "XG",
+    "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+    "lastfm_url": "https://www.last.fm/music/XG",
+    "listeners_brazil": 23823,
+    "listeners_global": 835806,
+    "playcount_global": 65124984,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "japanese",
+      "rnb",
+      "j-pop",
+      "k-pop"
+    ],
+    "similar_artists": [
+      "GIRLSET",
+      "Hearts2Hearts",
+      "NMIXX",
+      "Meovv",
+      "YOUNG POSSE"
+    ],
+    "extracted_at": "2026-04-20T16:54:26.190897"
+  },
+  {
+    "rank": 194,
+    "artist_name": "50 Cent",
+    "mbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+    "lastfm_url": "https://www.last.fm/music/50+Cent",
+    "listeners_brazil": 23777,
+    "listeners_global": 4920241,
+    "playcount_global": 120121187,
+    "ontour": false,
+    "tags": [
+      "rap",
+      "Hip-Hop",
+      "Gangsta Rap",
+      "hip hop",
+      "50 Cent"
+    ],
+    "similar_artists": [
+      "G-Unit",
+      "Lloyd Banks",
+      "The Game",
+      "Tony Yayo",
+      "Obie Trice"
+    ],
+    "extracted_at": "2026-04-20T16:54:26.465353"
+  },
+  {
+    "rank": 195,
+    "artist_name": "Conan Gray",
+    "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+    "lastfm_url": "https://www.last.fm/music/Conan+Gray",
+    "listeners_brazil": 23599,
+    "listeners_global": 2421047,
+    "playcount_global": 253924704,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "indie pop",
+      "my top songs",
+      "indie",
+      "american"
+    ],
+    "similar_artists": [
+      "Reneé Rapp",
+      "Gracie Abrams",
+      "Olivia Rodrigo",
+      "Maisie Peters",
+      "Ricky Montgomery"
+    ],
+    "extracted_at": "2026-04-20T16:54:26.725817"
+  },
+  {
+    "rank": 196,
+    "artist_name": "Alee",
+    "mbid": "5512f7aa-cf0e-4119-8784-04b02e3d01d1",
+    "lastfm_url": "https://www.last.fm/music/Alee",
+    "listeners_brazil": 23540,
+    "listeners_global": 136380,
+    "playcount_global": 20952275,
+    "ontour": true,
+    "tags": [
+      "country",
+      "trap",
+      "rap",
+      "indie",
+      "singer-songwriter"
+    ],
+    "similar_artists": [
+      "Derek",
+      "Teto",
+      "Yunk Vino",
+      "Recayd Mob",
+      "Matuê"
+    ],
+    "extracted_at": "2026-04-20T16:54:26.991514"
+  },
+  {
+    "rank": 197,
+    "artist_name": "Gracie Abrams",
+    "mbid": "f7441bc7-d7de-4813-a2fc-31a4033d396d",
+    "lastfm_url": "https://www.last.fm/music/Gracie+Abrams",
+    "listeners_brazil": 23309,
+    "listeners_global": 1805945,
+    "playcount_global": 287951021,
+    "ontour": false,
+    "tags": [
+      "pop",
+      "indie pop",
+      "my top songs",
+      "singer-songwriter",
+      "female vocalists"
+    ],
+    "similar_artists": [
+      "Alessi Rose",
+      "Maisie Peters",
+      "Lexi Jayde",
+      "Lizzy McAlpine",
+      "Sadie Jean"
+    ],
+    "extracted_at": "2026-04-20T16:54:27.238798"
+  },
+  {
+    "rank": 198,
+    "artist_name": "Secos & Molhados",
+    "mbid": "6840dcbe-3aca-4057-8d16-4799c3730e3a",
+    "lastfm_url": "https://www.last.fm/music/Secos+&+Molhados",
+    "listeners_brazil": 23207,
+    "listeners_global": 457140,
+    "playcount_global": 11099114,
+    "ontour": false,
+    "tags": [
+      "mpb",
+      "psychedelic",
+      "brazilian",
+      "rock",
+      "brasil"
+    ],
+    "similar_artists": [
+      "Ney Matogrosso",
+      "Os Mutantes",
+      "Ave Sangria",
+      "Novos Baianos",
+      "Angela Ro Ro"
+    ],
+    "extracted_at": "2026-04-20T16:54:27.513486"
+  },
+  {
+    "rank": 199,
+    "artist_name": "Urias",
+    "mbid": "4e883e4e-03a6-4573-aa9e-b911a610a095",
+    "lastfm_url": "https://www.last.fm/music/Urias",
+    "listeners_brazil": 23119,
+    "listeners_global": 281922,
+    "playcount_global": 33167129,
+    "ontour": true,
+    "tags": [
+      "pop",
+      "urias",
+      "electronic",
+      "brazilian",
+      "brazil"
+    ],
+    "similar_artists": [
+      "DUDA BEAT",
+      "Pabllo Vittar",
+      "CHAMELEO",
+      "Irmãs de Pau",
+      "Linn da Quebrada"
+    ],
+    "extracted_at": "2026-04-20T16:54:27.802411"
+  },
+  {
+    "rank": 200,
+    "artist_name": "Labrinth",
+    "mbid": "dc99e6fd-c710-4f79-b74b-127b4d0b7849",
+    "lastfm_url": "https://www.last.fm/music/Labrinth",
+    "listeners_brazil": 23069,
+    "listeners_global": 2546845,
+    "playcount_global": 74845992,
+    "ontour": false,
+    "tags": [
+      "electronic",
+      "british",
+      "rnb",
+      "dance",
+      "r&b"
+    ],
+    "similar_artists": [
+      "Labrinth & Zendaya",
+      "Artemas",
+      "RAYE",
+      "Rihanna",
+      "Sam Smith"
+    ],
+    "extracted_at": "2026-04-20T16:54:28.066628"
+  }
+]

@@ -1,0 +1,7 @@
+duckdb
+requests
+streamlit
+plotly
+pandas
+dbt-duckdb
+psycopg2-binary

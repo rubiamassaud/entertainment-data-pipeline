@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_data
+    # Remova a linha 'database: main' se ela estiver aqui
+    schema: main
+    tables:
+      - name: raw_movies_json
+      - name: top10_brazil_artists

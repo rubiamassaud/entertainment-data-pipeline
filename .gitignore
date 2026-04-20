@@ -1,0 +1,13 @@
+# Banco de Dados
+*.duckdb
+*.duckdb.wal
+
+# Ambientes Virtuais e Python
+__pycache__/
+venv/
+.env
+
+# Logs e dbt
+logs/
+target/
+dbt_packages/

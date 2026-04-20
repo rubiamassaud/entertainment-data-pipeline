@@ -1,0 +1,11 @@
+# profiles.yml
+entertainment_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /opt/airflow/data/entertainment.duckdb
+      threads: 1
+      extensions:
+        - httpfs
+        - json
