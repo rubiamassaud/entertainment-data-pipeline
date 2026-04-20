@@ -2,6 +2,10 @@
 *.duckdb
 *.duckdb.wal
 
+# Dados brutos e temporários
+data/
+*.json
+
 # Ambientes Virtuais e Python
 __pycache__/
 venv/
