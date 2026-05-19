@@ -1,5 +1,5 @@
 /*
-  Mestra, aqui fazemos o casting final.
+  Aqui fazemos o casting final.
   O DuckDB já leu o JSON, o dbt agora oficializa os tipos.
 */
 
