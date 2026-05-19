@@ -10,7 +10,6 @@ TMDB_TOKEN = os.getenv("TMDB_TOKEN")
 RAW_PATH = "/opt/airflow/data/raw"
 
 def fetch_popular_movies():
-    # ... (seu código de fetch permanece igual, ele está ótimo)
     url = "https://api.themoviedb.org/3/movie/popular?language=pt-BR&page=1"
     headers = {
         "Authorization": f"Bearer {TMDB_TOKEN}",
