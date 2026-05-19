@@ -53,7 +53,6 @@ with DAG(
     )
 
     # 2. NOVA TASK: O dbt entra em cena para criar a stg_movies
-    # Isso resolve o erro do seu Dashboard!
     dbt_transform = BashOperator(
         task_id="dbt_transform_movies",
         bash_command=(
