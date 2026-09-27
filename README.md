@@ -1,5 +1,5 @@
 # 🎬 Entertainment Data Pipeline: TMDB & LastFM
-![Dashboard do Projeto](assets/dashboard.png)
+![Dashboard do Projeto].(./assets/movies_dashboard.png)](./assets)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
